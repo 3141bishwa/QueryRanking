@@ -8,8 +8,8 @@ README
 
 Look at the following websites to install it.
 
-http://www.nltk.org/install.html
-https://radimrehurek.com/gensim/install.html
+* http://www.nltk.org/install.html
+* https://radimrehurek.com/gensim/install.html
 
 - First, download this repository and extract the zip file.
 - Then, download the word2vec model from:
