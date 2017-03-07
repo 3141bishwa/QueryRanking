@@ -16,13 +16,11 @@ https://radimrehurek.com/gensim/install.html
 
 https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
 
-- Rename the file to bin.gz and put it in the same directory as the downloaded repo (don not unzip it)
+- Rename the file to data.bin.gz and put it inside the repository that you just downloaded. (don not unzip it)
 - Run the script using:
 
-`python script.py`
+`python solution.py`
 
 - Let the code run for a while since it has to load the word2vec model (consumes about 4 Gbs of RAM, make sure you have enough).
 
 - The script will ask you for a word. After entering the word, it will show the 5 highest sections with the scores.
-
-
