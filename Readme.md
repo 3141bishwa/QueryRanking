@@ -11,7 +11,11 @@ Look at the following websites to install it.
    * http://www.nltk.org/install.html
    * https://radimrehurek.com/gensim/install.html
 
+
+### Steps
+
 - First, download this repository and extract the zip file.
+
 - Then, download the word2vec model from:
 
 https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
