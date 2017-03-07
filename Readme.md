@@ -6,7 +6,7 @@ README
 * nltk
 * gensim (Word2vec model)
 
-- Look at the following websites to install it.
+Look at the following websites to install it.
 
 http://www.nltk.org/install.html
 https://radimrehurek.com/gensim/install.html
