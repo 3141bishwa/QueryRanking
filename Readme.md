@@ -20,7 +20,7 @@ Look at the following websites to install it.
 
 https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
 
-- Rename the file to data.bin.gz and put it inside the repository that you just downloaded. (don not unzip it)
+- Rename the file to data.bin.gz and put it inside the repository that you just downloaded. (do not unzip it)
 - Run the script using:
 
 `python solution.py`
