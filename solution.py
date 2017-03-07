@@ -21,7 +21,6 @@ def getNouns(sentence, exclude_words):
     for word,pos in nltk.pos_tag(nltk.word_tokenize(str(sentence))):
         if (pos == 'NN' or pos == 'NNP' or pos == 'NNS' or pos == 'NNPS') and word not in exclude_words:
             nouns.append(word)
-    print nouns
     return nouns
 
 #Find a similarity ranking based on the words
@@ -32,10 +31,9 @@ def get_similarity(query, list_of_words):
             score = model.similarity(word, query)
             total_score += score
         except KeyError:
-            print word
-            print "Not Found"
+            #Ignores the words that it can't find in the model
+            print "Not Found", word
     return total_score
-
 
 # Returns the top 5 categories with highest scores
 def highest_five_values(dictionary):
@@ -53,13 +51,22 @@ if __name__ == "__main__":
     score_dict = {}
 
     model = gensim.models.KeyedVectors.load_word2vec_format("data.bin.gz", binary = True)
-    while True:
+
+    want_another_word = True
+    while want_another_word:
         query = raw_input("Choose a word: ")
 
         for section_id, section in data:
             nouns = getNouns(section, exclude_nouns)
             score = get_similarity(query, nouns)
-            score_dict[section_id] = score
+            score_dict[section] = score
 
-        for section_id, score in highest_five_values(score_dict):
-            print section_id, score
+        for section_name, score in highest_five_values(score_dict):
+            print section_name, score
+
+        want = raw_input("Want to query another word? Answer T for True and F for False: ")
+
+        if want == "T":
+            want_another_word = True
+        else:
+            want_another_word = False
