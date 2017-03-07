@@ -58,3 +58,17 @@ Home entertainment, recreation and culture products, including household pets an
 Clothing, footwear, personal accessories, and related products 0.527105139476
 
 Leisure and long-distance travel, tourism, and accommodation products 0.495456686573
+
+## Example III
+
+Choose a word: television
+
+Home entertainment, recreation and culture products, including household pets and related products 0.913504415734
+
+Materials and supplies for production and related products, except processed food and beverage inputs for human food manufacturing and food services 0.652424204603
+
+Advertising, public relations, and communications and information services 0.573792796653
+
+Educational services, health care and related products for persons, and public, community, and social services, nec., except public administration services 0.462019669565
+
+Food, beverage, and tobacco products, except raw farm products 0.45255768021
