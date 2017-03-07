@@ -3,6 +3,11 @@ Python packages used by the script
 * nltk
 * gensim (Word2vec model)
 
+Look at the following websites to install it.
+
+http://www.nltk.org/install.html
+https://radimrehurek.com/gensim/install.html
+
 
 First, download the word2vec model from:
 https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
