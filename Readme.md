@@ -72,3 +72,13 @@ Advertising, public relations, and communications and information services 0.573
 Educational services, health care and related products for persons, and public, community, and social services, nec., except public administration services 0.462019669565
 
 Food, beverage, and tobacco products, except raw farm products 0.45255768021
+
+
+
+### Update (March 30, 2017)
+
+- Added final_structure.csv which will be used for the classification of queries. The csv file contains only the leaf nodes of the NAPCS structure
+
+- Added get_max_similarity() which computes the ranking score for a category based on the maximum score obtained by any one word in the category.
+
+- Wrote a Wikipedia scraper to obtain wiki contents for diffferent words in the NAPCS structure.
