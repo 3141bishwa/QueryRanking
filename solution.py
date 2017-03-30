@@ -24,7 +24,7 @@ def getNouns(sentence, exclude_words):
     return nouns
 
 #Find a similarity ranking based on the words
-def get_similarity(query, list_of_words):
+def get_avg_similarity(query, list_of_words):
     total_score = 0
     for word in list_of_words:
         try:
@@ -33,7 +33,19 @@ def get_similarity(query, list_of_words):
         except KeyError:
             #Ignores the words that it can't find in the model
             print "Not Found", word
-    return total_score
+    return total_score/len(list_of_words)
+
+def get_max_similarity(query, list_of_words):
+    max_score = 0
+    for word in list_of_words:
+        try:
+            score = model.similarity(word, query)
+            if score > max_score:
+                max_score = score
+        except KeyError:
+            #Ignores the words that it can't find in the model
+            print "Not Found", word
+    return max_score
 
 # Returns the top 5 categories with highest scores
 def highest_five_values(dictionary):
@@ -45,10 +57,18 @@ if __name__ == "__main__":
     # and appear quite frequently in all sections
     exclude_nouns = ["services", "products"]
 
-    sections_csv = pd.read_csv("sections.csv")
-    data = [tuple(x) for x in sections_csv[["2017 NAPCS Code" ,"Title"]].values]
+    structure_csv = pd.read_csv("final_structure.csv")
+    structure_csv["2017 NAPCS Code"] = structure_csv["2017 NAPCS Code"].astype('str')
+    structure_csv = structure_csv[structure_csv["2017 NAPCS Code"].str.len() == 11]
 
-    score_dict = {}
+    data = [tuple(x) for x in structure_csv[["2017 NAPCS Code" ,"Title"]].values ]
+
+    print structure_csv
+
+    score_dict_first_method = {}
+
+    score_dict_second_method = {}
+
 
     model = gensim.models.KeyedVectors.load_word2vec_format("data.bin.gz", binary = True)
 
@@ -58,11 +78,17 @@ if __name__ == "__main__":
 
         for section_id, section in data:
             nouns = getNouns(section, exclude_nouns)
-            score = get_similarity(query, nouns)
-            score_dict[section] = score
+            score_first_method = get_avg_similarity(query, nouns)
+            score_second_method = get_max_similarity(query, nouns)
+            score_dict_first_method[section] = score_first_method
+            score_dict_second_method[section] = score_second_method
 
-        for section_name, score in highest_five_values(score_dict):
+        for section_name, score in highest_five_values(score_dict_first_method):
             print section_name, score
+
+        for section_name, score in highest_five_values(score_dict_second_method):
+            print section_name, score
+
 
         want = raw_input("Want to query another word? Answer T for True and F for False: ")
 

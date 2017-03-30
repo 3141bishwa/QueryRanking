@@ -1,0 +1,2199 @@
+Seq. No.,2017 NAPCS Code,Title
+1,11,"Food, beverage, and tobacco products, except raw farm products"
+2,111,"Food and beverages purchased for future consumption, and related products "
+3,11101,Food and beverages purchased for future consumption 
+4,1110101,Meat products
+5,111010101,"Meat carcasses, whole and half, fresh and frozen"
+6,11101010101,"Beef and veal, fresh and frozen whole carcass and half carcass"
+7,11101010102,"Pork, fresh and frozen whole carcass and half carcass, not canned or made into sausage"
+8,11101010103,"Other meat, fresh and frozen whole carcass and half carcass"
+9,111010102,"Meats, fresh and frozen cuts"
+10,11101010201,"Beef and veal, fresh and frozen cuts"
+11,11101010202,"Pork, fresh and frozen cuts"
+12,11101010203,Poultry and fowl
+13,11101010204,"Other meat, fresh and frozen cuts"
+14,111010103,Processed meat
+15,11101010301,Processed poultry
+16,11101010302,Other processed meat
+17,1110102,Prepared and processed fish and other seafood products 
+18,111010201,Prepared and processed fish and other seafood products 
+19,11101020101,Prepared and processed fish and other seafood products 
+20,1110103,Dairy products and dairy product substitutes
+21,111010301,Dairy products and dairy product substitutes
+22,11101030101,Dry milk products and mixtures
+23,11101030102,Fluid milk
+24,11101030103,"Yogurt, except frozen"
+25,11101030104,Creamery butter
+26,11101030105,"Cheese, including cottage cheese"
+27,11101030106,Ice cream and related products
+28,11101030107,Other dairy products
+29,11101030108,Dairy product substitutes
+30,1110104,"Breads, cakes, pies, pastries, and tortillas"
+31,111010401,"Breads, cakes, pies, pastries, and tortillas"
+32,11101040101,"Breads, cakes, pies, pastries, and tortillas"
+33,1110105,Crackers and cookies
+34,111010501,Crackers and cookies
+35,11101050101,Crackers and cookies
+36,1110106,Baking mixes and prepared dough
+37,111010601,Baking mixes and prepared dough
+38,11101060101,Baking mixes and prepared dough
+39,1110107,"Table salt, pepper, and other spices"
+40,111010701,"Table salt, pepper, and other spices"
+41,11101070101,"Table salt, pepper, and other spices"
+42,1110108,Sugar products
+43,111010801,Sugar products
+44,11101080101,Sugar products
+45,1110109,"Flour and other milled grain and oilseed products, except oils and products for animal feed"
+46,111010901,"Flour and other milled grain and oilseed products, except oils and products for animal feed"
+47,11101090101,"Flour and other milled grain and oilseed products, except oils and products for animal feed"
+48,1110110,"Fats and oils, including lard"
+49,111011001,"Fats and oils, including lard"
+50,11101100101,Crude and partially refined vegetable oils
+51,11101100102,Fully refined fats and oils
+52,11101100103,"Margarine, butter blends, and butter substitutes"
+53,11101100104,Lard
+54,1110111,Chocolate products and confectionery products
+55,111011101,Chocolate products and confectionery products
+56,11101110101,Chocolate and cocoa for food manufacturing and household baking
+57,11101110102,Chocolate candy and chocolate-type confectionery products
+58,11101110103,Nonchocolate-type confectionery products
+59,1110112,Fresh vegetables
+60,111011201,Leafy or stem vegetables
+61,11101120101,Asparagus
+62,11101120102,Cabbages
+63,11101120103,Cauliflowers and broccoli
+64,11101120104,Lettuce and chicory
+65,11101120105,Spinach
+66,11101120106,Artichokes
+67,11101120107,Other leafy or stem vegetables
+68,111011202,Melons
+69,11101120201,Melons
+70,111011203,Fruit-bearing vegetables
+71,11101120301,Chilies and peppers
+72,11101120302,Cucumbers and gherkins
+73,11101120303,Eggplants (aubergines)
+74,11101120304,Tomatoes
+75,11101120305,"Pumpkins, squash and gourds"
+76,11101120306,Other fruit-bearing vegetables
+77,111011204,Green leguminous vegetables
+78,11101120401,Green leguminous vegetables
+79,111011205,"Root, bulb or tuberous vegetables"
+80,11101120501,Carrots and turnips
+81,11101120502,Green garlic
+82,11101120503,Onions
+83,11101120504,"Other root, bulb and tuberous vegetables "
+84,111011206,Mushrooms and truffles
+85,11101120601,Mushrooms and truffles
+86,111011207,"Vegetables, fresh, nec."
+87,11101120701,"Vegetables, fresh, nec."
+88,1110113,Fruit and nuts
+89,111011301,Fruit and nuts
+90,11101130101,Avocados
+91,11101130102,Tropical and subtropical fruits
+92,11101130103,Citrus fruits
+93,11101130104,Grapes
+94,11101130105,Berries and the fruits of the genus vaccinium
+95,11101130106,Pome fruits and stone fruits
+96,11101130107,"Nuts (excluding wild edible nuts and groundnuts), in shell"
+97,11101130108,"Coconuts, in shell"
+98,11101130109,Other oleaginous fruits
+99,11101130110,"Other fruits, nec."
+100,1110114,Edible roots and tubers with high starch or inulin content
+101,111011401,Edible roots and tubers with high starch or inulin content
+102,11101140101,Potatoes
+103,11101140102,Other edible roots and tubers with high starch or inulin content
+104,1110115,"Processed fruits and vegetables, except juices"
+105,111011501,"Processed fruits and vegetables, except juices"
+106,11101150101,Frozen fruits
+107,11101150102,Frozen vegetables
+108,11101150103,"Canned fruits and vegetables, except juices and nectars"
+109,11101150104,"Dried and dehydrated fruits and vegetables, including freeze-dried"
+110,1110116,"Soup mixes (including oriental, dried and dehydrated, and freeze-dried) and bouillon"
+111,111011601,"Soup mixes (including oriental, dried and dehydrated, and freeze-dried) and bouillon"
+112,11101160101,"Soup mixes (including oriental, dried and dehydrated, and freeze-dried) and bouillon"
+113,1110117,"Rice, processed, without other ingredients"
+114,111011701,"Rice, processed, without other ingredients"
+115,11101170101,"Rice, processed, without other ingredients"
+116,1110118,Dry pasta without other ingredients
+117,111011801,Dry pasta without other ingredients
+118,11101180101,Dry pasta without other ingredients
+119,1110119,"Snack foods, except cakes and pastries, frozen goods, and dried fruits"
+120,111011901,"Snack foods, except cakes and pastries, frozen goods, and dried fruits"
+121,11101190101,"Snack foods, except cakes and pastries, frozen goods, and dried fruits"
+122,111012,"Mayonnaise, dressing, and other prepared sauces, except meat-based sauces"
+123,111012001,"Mayonnaise, dressing, and other prepared sauces, except meat-based sauces"
+124,11101200101,"Mayonnaise, dressing, and other prepared sauces, except meat-based sauces"
+125,1110121,Frozen prepared foods
+126,111012101,Frozen prepared foods
+127,11101210101,Frozen prepared foods
+128,1110122,"Breakfast cereal, except infant cereal"
+129,111012201,"Breakfast cereal, except infant cereal"
+130,11101220101,"Breakfast cereal, except infant cereal"
+131,1110123,"Flavoring extracts, emulsions, and other liquid flavorings and food colorings for food manufacturing"
+132,111012301,"Flavoring extracts, emulsions, and other liquid flavorings and food colorings for food manufacturing"
+133,11101230101,"Flavoring extracts, emulsions, and other liquid flavorings and food colorings for food manufacturing"
+134,1110124,"Perishable prepared foods, including salads and sandwiches, vegetables and potatoes peeled and cut, fresh fruits cut and packaged, Mexican specialties, pizza, and tofu (not frozen or canned), and fresh macaroni products"
+135,111012401,"Perishable prepared foods, including salads and sandwiches, vegetables and potatoes peeled and cut, fresh fruits cut and packaged, Mexican specialties, pizza, and tofu (not frozen or canned), and fresh macaroni products"
+136,11101240101,"Perishable prepared foods, including salads and sandwiches, vegetables and potatoes peeled and cut, fresh fruits cut and packaged, Mexican specialties, pizza, and tofu (not frozen or canned), and fresh macaroni products"
+137,1110125,Other food products
+138,111012501,Other food products
+139,11101250101,Other food products
+140,1110126,"Beverages, including ice"
+141,111012601,"Beverages, including ice"
+142,11101260101,"Soft drinks, bottled water, and ice"
+143,11101260102,"Coffee and tea, except canned or bottled"
+144,11101260103,"Flavoring powders, tablets, and paste, including dry mix cocktails"
+145,11101260104,"Canned and fresh fruit and vegetable juices, nectars and concentrates"
+146,11101260105,Frozen fruit and vegetable juices and other frozen beverages
+147,11101260106,"Beer, ale, and malt beverages"
+148,11101260107,"Alcoholic beverages, except beer"
+149,11102,Wholesaling services for food and beverages purchased for future consumption 
+150,1110201,Wholesaling services for food and beverages purchased for future consumption 
+151,111020101,Wholesaling services for food and beverages purchased for future consumption 
+152,11102010101,Wholesaling services for packaged frozen food
+153,11102010102,"Wholesaling services for dairy products, except dried, canned, condensed, and evaporated dairy products"
+154,11102010103,"Wholesaling services for eggs and poultry, except canned and frozen poultry products"
+155,11102010104,"Wholesaling services for cookies, confectionery, snack foods, bread, and baked goods"
+156,11102010105,"Wholesaling services for fish and seafood, except canned and frozen fish and seafood"
+157,11102010106,"Wholesaling services for meat and meat products, except canned and frozen"
+158,11102010107,Wholesaling services for fresh fruits and vegetables
+159,11102010108,Wholesaling services for food dry goods and other foods
+160,11102010109,"Wholesaling services for soft drinks, bottled water, and nonalcoholic beverages"
+161,11102010110,Wholesaling services for alcoholic beverages
+162,11102010111,Wholesaling services for ice
+163,11103,Retailing services for food and beverages purchased for future consumption 
+164,1110301,Retailing services for food and beverages purchased for future consumption 
+165,111030101,Retailing services for food and beverages purchased for future consumption 
+166,11103010101,Retailing services for fresh meat and poultry
+167,11103010102,Retailing services for fresh fish and seafood
+168,11103010103,Retailing services for fresh fruit and vegetables
+169,11103010104,"Retailing services for eggs and dairy, except ice cream"
+170,11103010105,Retailing services for baked goods
+171,11103010106,Retailing services for perishable prepared foods
+172,11103010107,Retailing services for frozen foods
+173,11103010108,"Retailing services for candy, prepackaged cookies, and snack foods"
+174,11103010109,Retailing services for food dry goods and other foods purchased for future consumption
+175,11103010110,Retailing services for soft drinks and nonalcoholic beverages
+176,11103010111,"Retailing services for ice
+"
+177,11103010112,Retailing services for alcoholic beverages
+178,112,"Meals, snacks, other food items, and beverages, prepared and served or dispensed, for immediate consumption "
+179,11201,"Meals, snacks, other food items, and beverages, prepared and served or dispensed, for immediate consumption "
+180,1120101,"Meals, snacks, other food items, and beverages, prepared and served or dispensed, for immediate consumption "
+181,112010101,"Meals, snacks, other food items, and beverages, prepared and served or dispensed, for immediate consumption "
+182,11201010101,"Meals, snacks, other food items, and nonalcoholic beverages, prepared and served or dispensed for immediate consumption"
+183,11201010102,"Alcoholic beverages, prepared and served or dispensed for immediate consumption"
+184,11201010103,"Meals, snacks, other food items, and beverages for immediate consumption, prepared under long-term contract"
+185,11201010104,"Meals, snacks, other food items, and beverages prepared for catered events"
+186,113,"Tobacco products, smoking accessories, and related products"
+187,11301,Tobacco products and smoking accessories
+188,1130101,Tobacco products and smoking accessories
+189,113010101,Tobacco products and smoking accessories
+190,11301010101,"Cigarettes, including nontobacco"
+191,11301010102,Other tobacco products and smoking accessories
+192,11302,Wholesaling services for tobacco products and smoking accessories
+193,1130201,Wholesaling services for tobacco products and smoking accessories
+194,113020101,Wholesaling services for tobacco products and smoking accessories
+195,11302010101,Wholesaling services for tobacco products and smoking accessories
+196,11303,Retailing services for tobacco products and smoking accessories
+197,1130301,Retailing services for tobacco products and smoking accessories
+198,113030101,Retailing services for tobacco products and smoking accessories
+199,11303010101,Retailing services for tobacco products and smoking accessories
+200,14,"Clothing, footwear, personal accessories, and related products"
+201,141,"Clothing, footwear, and personal accessories"
+202,14101,Clothing and footwear
+203,1410101,Clothing and footwear
+204,141010101,Clothing and footwear
+205,14101010101,"Clothing, costumes, vestments, and fur apparel"
+206,14101010102,Footwear and shoe accessories
+207,14101010103,"Clothing accessories and personal accessories, except shoes, handbags, and jewelry"
+208,14102,Fashion accessories
+209,1410201,Fashion accessories
+210,141020101,Fashion accessories
+211,14102010101,"Leather and leather-like personal goods, including women's and children's handbags and purses"
+212,14102010102,"Watches, fine jewelry, and costume jewelry"
+213,142,"Wholesaling services for clothing, footwear, and personal accessories"
+214,14201,"Wholesaling services for clothing, footwear, and personal accessories"
+215,1420101,"Wholesaling services for clothing, footwear, and personal accessories"
+216,142010101,"Wholesaling services for clothing, footwear, and personal accessories"
+217,14201010101,Wholesaling services for clothing
+218,14201010102,Wholesaling services for footwear and footwear accessories
+219,14201010103,"Wholesaling services for clothing accessories, including costume jewelry"
+220,14201010104,"Wholesaling services for jewelry, except costume"
+221,14201010105,Wholesaling services for watches and watch parts
+222,143,"Retailing services for clothing, footwear, and personal accessories"
+223,14301,"Retailing services for clothing, footwear, and personal accessories"
+224,1430101,"Retailing services for clothing, footwear, and personal accessories"
+225,143010101,Retailing services for clothing and clothing accessories
+226,14301010101,Retailing services for men's clothing
+227,14301010102,Retailing services for women's clothing
+228,14301010103,"Retailing services for children's wear, including boys', girls' , and infants' and toddlers' clothing and accessories retailing services"
+229,14301010104,"Retailing services for costumes, vestments, and unisex clothing"
+230,14301010105,"Retailing services for men's and women's accessories, except costume jewelry"
+231,14301010106,Retailing services for costume and novelty jewelry
+232,143010102,Retailing services for footwear and footwear accessories
+233,14301010201,Retailing services for footwear and footwear accessories
+234,143010103,Retailing services for fine jewelry and watches
+235,14301010301,Retailing services for fine jewelry and watches
+236,144,"Rental of formal wear, costumes, and accessories"
+237,14401,"Rental of formal wear, costumes, and accessories"
+238,1440101,"Rental of formal wear, costumes, and accessories"
+239,144010101,"Rental of formal wear, costumes, and accessories"
+240,14401010101,"Rental of formal wear, costumes, and accessories"
+241,145,"Cleaning, alteration, and repair services for clothing, footwear, and personal accessories"
+242,14501,"Cleaning, alteration, and repair services for clothing, footwear, and personal accessories"
+243,1450101,"Cleaning, alteration, and repair services for clothing, footwear, and personal accessories"
+244,145010101,"Laundry and drycleaning services, except commercial and agency services"
+245,14501010101,Access to laundry machines
+246,14501010102,Non-commercial laundry services
+247,14501010103,Drycleaning services
+248,14501010104,Steam pressing and ironing services
+249,145010102,"Maintenance, repair, and alteration services for apparel, footwear, watches, and jewelry"
+250,14501010201,"Maintenance, repair, and alteration services for apparel, footwear, watches, and jewelry"
+251,145010103,Seasonal apparel and textile storage services
+252,14501010301,Seasonal apparel and textile storage services
+253,17,Housing and related products
+254,171,Residential buildings and related products
+255,17101,"Constructions of residential buildings, except apartment buildings, and related construction services"
+256,1710101,"Constructions of residential buildings, except apartment buildings, and related construction services"
+257,171010101,"Constructions of residential buildings, except apartment buildings, and related construction services"
+258,17101010101,"Constructions of residential buildings, except apartment buildings"
+259,17101010102,Residential building construction services
+260,17102,Wholesaling services for manufactured (mobile) homes
+261,1710201,Wholesaling services for manufactured (mobile) homes
+262,171020101,Wholesaling services for manufactured (mobile) homes
+263,17102010101,Wholesaling services for manufactured (mobile) homes
+264,17103,Retailing services for manufactured (mobile) homes
+265,1710301,Retailing services for manufactured (mobile) homes
+266,171030101,Retailing services for manufactured (mobile) homes
+267,17103010101,Retailing services for manufactured (mobile) homes
+268,17104,"Home, apartment, rooming house, and other residential space rental"
+269,1710401,"Home, apartment, rooming house, and other residential space rental"
+270,171040101,"Home, apartment, rooming house, and other residential space rental"
+271,17104010101,"Home, apartment, rooming house, and other residential space rental"
+272,17105,"Residential building services, except construction services"
+273,1710501,"Residential building services, except construction services"
+274,171050101,Agent and brokerage services for the sale of residential real estate
+275,17105010101,Agent and brokerage services for the sale and rental of residential real estate
+276,171050102,Home mortgage financing
+277,17105010201,Home mortgage financing
+278,171050103,Underwriting services for homeowners multiple peril insurance policies
+279,17105010301,Underwriting services for homeowners multiple peril insurance policies
+280,171050104,"Home inspection services, including inspection services for new home construction"
+281,17105010401,Home inspection services
+282,17105010402,Combined home and pest inspection services
+283,17105010403,New home construction inspection services
+284,171050105,Household moving services
+285,17105010501,Household moving services
+286,171050106,Home cleaning services
+287,17105010601,Residential interior cleaning services
+288,17105010602,"On-site cleaning services for carpets, rugs, and upholstery, residential"
+289,17105010603,Chimney cleaning services
+290,171050107,Residential security services
+291,17105010701,"Building security system monitoring services, residential"
+292,17105010702,"Building security system and lock installation and repair services, residential"
+293,17105010703,Key duplication services
+294,171050108,Architectural services for residential building projects
+295,17105010801,Architectural services for residential building projects
+296,171050109,Interior decorating services
+297,17105010901,Interior decorating services
+298,171050110,"Pest extermination and control services, residential"
+299,17105011001,"Pest extermination and control services, residential"
+300,171050111,Engineering services for residential building projects
+301,17105011101,Engineering services for residential building projects
+302,172,Residential landscape constructions and related products
+303,17201,Residential landscape constructions and related products
+304,1720101,Residential landscape constructions and related products
+305,172010101,Residential landscape constructions and related products
+306,17201010101,"Residential landscape constructions, landscape construction services, and landscaping services"
+307,17201010102,Landscape architectural services for residential building projects
+308,21,"Household and personal goods, and related products"
+309,211,Household and personal goods
+310,21101,"Home furniture, furnishings, and accessories"
+311,2110101,Home furniture and mattresses
+312,211010101,Home furniture and mattresses
+313,21101010101,Home furniture
+314,21101010102,"Mattresses, including wire spring, innerspring, and other mattresses"
+315,2110102,Home furnishings and accessories
+316,211010201,Window treatments
+317,21101020101,Window treatments
+318,211010202,"Household linens and other household textile products, except floor coverings and window treatments"
+319,21101020201,Bath linens
+320,21101020202,Bed linens
+321,21101020203,"Other household textile products, except floor coverings and window treatments "
+322,211010203,"Household-type portable lighting fixtures, including parts and accessories"
+323,21101020301,"Household-type portable lighting fixtures, including parts and accessories"
+324,211010204,"Candles, including tapers"
+325,21101020401,"Candles, including tapers"
+326,211010205,"Decorative articles, all materials, nec."
+327,21101020501,"Decorative articles, all materials, nec."
+328,211010206,Other household furnishings
+329,21101020601,Other household furnishings
+330,21102,Household appliances 
+331,2110201,Household appliances 
+332,211020101,Household appliances 
+333,21102010101,Household appliances 
+334,21103,"Kitchenware, dinnerware, tableware (including plastics tableware), and utensils"
+335,2110301,"Kitchenware, dinnerware, tableware (including plastics tableware), and utensils"
+336,211030101,"Kitchenware, dinnerware, tableware (including plastics tableware), and utensils"
+337,21103010101,"Kitchenware, dinnerware, tableware (including plastics tableware), and utensils"
+338,21104,Home cleaning and laundry chemicals and supplies
+339,2110401,Home cleaning and laundry chemicals and supplies
+340,211040101,Home cleaning and laundry chemicals and supplies
+341,21104010101,Home cleaning and laundry chemicals
+342,21104010102,Home cleaning and laundry supplies
+343,21105,Home lawn and garden products
+344,2110501,Home lawn and garden products
+345,211050101,Home lawn and garden products
+346,21105010101,Home lawn and garden products
+347,21106,"Household paper products, except tableware"
+348,2110601,"Household paper products, except tableware"
+349,211060101,"Household paper products, except tableware"
+350,21106010101,"Household paper products, except tableware"
+351,21107,"Household and personal goods, nec."
+352,2110701,"Household and personal goods, nec."
+353,211070101,"Household and personal goods, nec."
+354,21107010101,"Paintings, sculptures, and other art works"
+355,21107010102,Primary batteries
+356,21107010103,"Other household and personal goods, nec."
+357,212,Wholesaling services for household and personal goods
+358,21201,Wholesaling services for household and personal goods
+359,2120101,Wholesaling services for household and personal goods
+360,212010101,"Wholesaling services for home furniture, furnishings, and accessories"
+361,21201010101,Wholesaling services for household and lawn furniture
+362,21201010102,Wholesaling services for window treatments
+363,21201010103,"Wholesaling services for other textile house furnishings, except floor coverings"
+364,21201010104,Wholesaling services for other household furnishings
+365,212010102,"Wholesaling services for household appliances, including personal care appliances"
+366,21201010201,"Wholesaling services for household appliances, including personal care appliances"
+367,212010103,"Wholesaling services for tableware, kitchenware, cookware, and glassware"
+368,21201010301,"Wholesaling services for tableware, kitchenware, cookware, and glassware"
+369,212010104,"Wholesaling services for home lawn and garden equipment, tools, and supplies"
+370,21201010401,"Wholesaling services for home lawn and garden equipment, tools, and supplies"
+371,212010105,"Wholesaling services for household paper and plastic products, nec."
+372,21201010501,"Wholesaling services for household paper and plastic products, nec."
+373,212010106,"Wholesaling services for household and personal goods, nec."
+374,21201010601,"Wholesaling services for household and personal goods, nec."
+375,213,Retailing services for household and personal goods
+376,21301,Retailing services for household and personal goods
+377,2130101,Retailing services for household and personal goods
+378,213010101,"Retailing services for home furniture, furnishings, and accessories"
+379,21301010101,Retailing services for indoor home furniture
+380,21301010102,Retailing services for outdoor/patio furniture
+381,21301010103,Retailing services for mattresses and boxsprings
+382,21301010104,Retailing services for window treatments
+383,21301010105,"Retailing services for domestics and other textile home furnishings, except carpet and rugs"
+384,21301010106,Retailing services for other home furnishings and accessories
+385,213010102,Retailing services for household appliances and related parts and accessories
+386,21301010201,Retailing services for household appliances and related parts and accessories
+387,213010103,"Retailing services for tableware, kitchenware, cookware, and glassware"
+388,21301010301,"Retailing services for tableware, kitchenware, cookware, and glassware"
+389,213010104,Retailing services for household cleaning supplies
+390,21301010401,Retailing services for household cleaning supplies
+391,213010105,Retailing services for home lawn and garden goods
+392,21301010501,Retailing services for home lawn and garden goods
+393,213010106,"Retailing services for household paper and plastic products, except tableware"
+394,21301010601,"Retailing services for household paper and plastic products, except tableware"
+395,213010107,"Retailing services for antiques, collectibles, art works, and other used goods, except transportation and machinery goods"
+396,21301010701,"Retailing services for antiques, collectibles, art works, and other used goods, except transportation and machinery goods"
+397,213010108,"Retailing services for other household and personal goods, nec."
+398,21301010801,"Retailing services for other household and personal goods, nec."
+399,214,Rental services for household and personal goods
+400,21401,Rental services for household and personal goods
+401,2140101,Rental services for household and personal goods
+402,214010101,"Rental services for home furniture, furnishings, and accessories"
+403,21401010101,"Rental services for home furniture, furnishings, and accessories"
+404,214010102,Rental services for home operation appliances and equipment
+405,21401010201,Rental of household type appliances
+406,21401010202,Rental of general homeowner tools and do-it-yourself equipment
+407,214010103,"Rental services for household and personal goods, nec."
+408,21401010301,"Rental services for household and personal goods, nec."
+409,215,Services for household and personal goods
+410,21501,Services for household and personal goods
+411,2150101,Services for household and personal goods
+412,215010101,Maintenance and repair services for household and personal goods
+413,21501010101,"Off-site cleaning and repair services for home furniture, furnishings, and accessories, except curtain and drape cleaning services"
+414,21501010102,Maintenance and repair services for home operation appliances and equipment
+415,21501010103,"Maintenance and repair services for household and personal goods, nec."
+416,24,"Home entertainment, recreation and culture products, including household pets and related products"
+417,241,"Home entertainment, recreation and culture products"
+418,24101,Home audio and visual equipment (except personal computers) and related products
+419,2410101,Home audio and visual equipment (except personal computers) and related products
+420,241010101,Home audio and visual equipment
+421,24101010101,Home audio and visual equipment
+422,241010102,Wholesaling services for home audio and visual equipment
+423,24101010201,Wholesaling services for home audio and visual equipment
+424,241010103,Retailing services for home audio and visual equipment
+425,24101010301,"Retailing services for televisions, audio and video equipment"
+426,24101010302,Retailing services for photographic equipment and supplies
+427,241010104,Rental services for home audio and visual equipment
+428,24101010401,"Rental of home audiovisual equipment, components and accessories, except computers and peripherals"
+429,24101010402,"Rental of pre-recorded cassettes, tapes, discs, or video games "
+430,241010105,Maintenance and repair services for home audio and visual equipment
+431,24101010501,Maintenance and repair services for home audio and visual equipment
+432,24102,Home programming distribution services
+433,2410201,Home programming distribution services
+434,241020101,Home programming distribution services
+435,24102010101,Multichannel programming distribution services
+436,24102010102,Installation services for connections to program distribution networks
+437,24102010103,"Public and non-commercial programming services, television and radio"
+438,24103,Home internet services
+439,2410301,Home internet services
+440,241030101,Home internet services
+441,24103010101,"Internet access services, dial-up"
+442,24103010102,"Internet access services, always-on, residential"
+443,24104,"Newspapers, periodicals, books, other publications, and  pre-recorded media, and related products"
+444,2410401,"Newspapers, periodicals, books, other publications, and pre-recorded media"
+445,241040101,Newspapers
+446,24104010101,Newspapers
+447,241040102,Periodicals
+448,24104010201,"Periodicals, general interest"
+449,24104010202,"Periodicals, business (including farming), professional and academic "
+450,24104010203,"Periodicals, nec."
+451,241040103,Books
+452,24104010301,Textbooks
+453,24104010302,Children's books
+454,24104010303,General reference books
+455,24104010304,"Professional, technical and scholarly books"
+456,24104010305,Adult trade books
+457,241040104,Specialty content
+458,24104010401,Specialty content for consumers 
+459,24104010402,"Specialty content for trade, professional, and business"
+460,241040105,"Audio recordings, except audio books"
+461,24104010501,Musical recordings
+462,24104010502,"Non-musical audio recordings, except audio books"
+463,241040106,"Audiovisual recordings, including motion pictures, television programs, and music videos"
+464,24104010601,"Audiovisual recordings, including motion pictures, television programs, and music videos"
+465,241040107,Print music
+466,24104010701,Print music
+467,2410402,"Wholesaling services for newspapers, periodicals, books, other publications, and pre-recorded media"
+468,241040201,"Wholesaling services for newspapers, periodicals, books, other publications, and pre-recorded media"
+469,24104020101,Wholesaling services for audio and video recordings
+470,24104020102,"Wholesaling services for newspapers, periodicals, books and other publications"
+471,2410403,"Retailing services for newspapers, periodicals, books, other publications, and pre-recorded media"
+472,241040301,"Retailing services for newspapers, periodicals, books, other publications, and pre-recorded media"
+473,24104030101,Retailing services for books
+474,24104030102,"Retailing services for magazines and newspapers, including issue format comic books"
+475,24104030103,"Retailing services for other publications (including greeting cards and calendars), except audio and video recordings"
+476,24104030104,"Retailing services for audio and video recordings, including purchased downloads"
+477,24105,Admissions to film exhibitions
+478,2410501,Admissions to film exhibitions
+479,241050101,Admissions to film exhibitions
+480,24105010101,Admissions to film exhibitions
+481,24106,"Performing arts, live events, and public exhibitions, and related products"
+482,2410601,Admissions to live performances and cultural institutions
+483,241060101,Admissions to live performances and cultural institutions
+484,24106010101,Admissions to live performing arts performances
+485,24106010102,Admissions to cultural institutions
+486,2410602,Membership services of performing arts societies and cultural institutions
+487,241060201,Membership services of performing arts societies and cultural institutions
+488,24106020101,Membership services of performing arts societies and cultural institutions
+489,2410603,"Other cultural institution products, including academic trips and tours"
+490,241060301,"Other cultural institution products, including academic trips and tours"
+491,24106030101,Traveling exhibits
+492,24106030102,"School visits, children's parties and similar children's programs of cultural institutions"
+493,24106030103,Academic trips and tours
+494,24107,Admissions to live sports events
+495,2410701,Admissions to live sports events
+496,241070101,Admissions to live sports events
+497,24107010101,Admissions to live sports events
+498,24108,"Recreation, sports, and fitness products (including boats, motorcycles, other sports vehicles, and musical instruments), and related products"
+499,2410801,"Sporting and recreational equipment, and related products"
+500,241080101,Sporting and recreational equipment
+501,24108010101,Sporting goods and equipment
+502,24108010102,"Bicycles and other cycles, all types, except children's sidewalk bikes"
+503,241080102,Wholesaling services for sporting and recreational equipment
+504,24108010201,Wholesaling services for sporting and recreational equipment
+505,241080103,"Retailing services for sporting and recreational equipment, except home gym and related equipment"
+506,24108010301,"Retailing services for bicycles and other cycles, all types, except children's sidewalk bikes, and parts and accessories"
+507,24108010302,Retailing services for golf equipment
+508,24108010303,"Retailing services for hunting, fishing, hiking, and camping equipment"
+509,24108010304,"Retailing services for other sporting goods and equipment, except sports vehicles"
+510,2410802,"Toys, games, and hobby kits and supplies (for home use), and related products "
+511,241080201,"Toys, games, and hobby kits and supplies (for home use)"
+512,24108020101,"Dolls, action figures, toy animals, and stuffed toys, including parts and accessories"
+513,24108020102,"Baby carriages and children's vehicles (including parts for children's vehicles), except bicycles"
+514,24108020103,"Models (operating and static), craft kits and supplies, natural science kits and sets, and collectors' miniatures"
+515,24108020104,"Nonelectronic games and puzzles, including parts"
+516,24108020105,"Other nonelectronic, nonriding toys, including parts"
+517,24108020106,"Electronic toys and games (including video game devices and hand-held electronic home video games), except cartridges, disks, and tapes"
+518,241080202,"Wholesaling services for toys, games, and hobby goods"
+519,24108020201,"Wholesaling services for toys, games, and hobby goods"
+520,241080203,"Retailing services for toys, games, and hobby and craft supplies"
+521,24108020301,"Retailing services for toys, games, and hobby and craft supplies"
+522,2410803,"Boats, motorcycles, and other sports vehicles (except mobile homes, motor homes (RVs), and travel/camping trailers), and related products"
+523,241080301,"Boats, motorcycles, and other sports vehicles, except mobile homes, motor homes (RVs), and travel/camping trailers"
+524,24108030101,Boats and other watercraft
+525,24108030102,"Motorcycles, including three-wheel, motorbikes, motor scooters, mopeds, sidecars, and parts"
+526,24108030103,Other recreational vehicles
+527,241080302,"Wholesaling services for boats, motorcycles, and other sports vehicles"
+528,24108030201,"Wholesaling services for boats, motorcycles, and other sports vehicles"
+529,241080303,"Retailing services for boats, motorcycles, and other sports vehicles, except mobile homes, motor homes (RVs), and travel/camping trailers"
+530,24108030301,"Retailing services for motorcycles, motor scooters, and motor bikes, including parts and accessories"
+531,24108030302,Retailing services for boats and other sports vehicles
+532,2410804,Musical instruments and related products
+533,241080401,Musical instruments
+534,24108040101,Musical instruments
+535,241080402,Wholesaling services for musical instruments
+536,24108040201,Wholesaling services for musical instruments
+537,241080403,"Retailing services for musical instruments, sheet music, and related items"
+538,24108040301,"Retailing services for musical instruments, sheet music, and related items"
+539,2410805,"Rental services for recreational, sports, and fitness equipment, including boats, motorcycles, other sports vehicles, and musical instruments"
+540,241080501,"Rental services for recreational, sports, and fitness equipment, including boats, motorcycles, other sports vehicles, and musical instruments"
+541,24108050101,"Rental services for recreational, sports, and fitness equipment, including boats, motorcycles, other sports vehicles, and musical instruments"
+542,2410806,"Maintenance and repair services for recreational, sports, and fitness equipment, including boats, motorcycles, other sports vehicles, and musical instruments"
+543,241080601,"Maintenance and repair services for recreational, sports, and fitness equipment, including boats, motorcycles, other sports vehicles, and musical instruments"
+544,24108060101,"Maintenance and repair services for recreational, sports, and fitness equipment, including boats, motorcycles, other sports vehicles, and musical instruments"
+545,2410807,"Recreation, sports, fitness, and related services, except amusement park and arcade services"
+546,241080701,"Recreation, sports, and fitness services"
+547,24108070101,Golf course and country club services
+548,24108070102,Skiing facility services
+549,24108070103,Fitness and recreational sports center services
+550,24108070104,"Other recreation, sports, and fitness services"
+551,241080702,"Services related to recreation, sports, and fitness"
+552,24108070201,Caddy services
+553,24108070202,Hunting and fishing guide services
+554,24108070203,Fitness evaluation and personal fitness training services
+555,24108070204,"Overnight recreational camp accommodation, including camp tuition and fees"
+556,24108070205,"Pleasure craft docking, launching, utilities, and storage services"
+557,24108070206,Amateur sports team and club services
+558,24108070207,Registration for sports tournaments and matches
+559,24108070208,Sports coaching services
+560,24109,Amusement park and arcade services
+561,2410901,Amusement park and arcade services
+562,241090101,Amusement park and arcade services
+563,24109010101,Amusement park and arcade services
+564,24110,"Other home entertainment, recreation and culture products"
+565,2411001,"Other home entertainment, recreation and culture products"
+566,241100101,Gambling products
+567,24110010101,Table wagering games
+568,24110010102,Gambling machine products
+569,24110010103,Racing and sporting event gambling products
+570,24110010104,Lotteries
+571,24110010105,Internet gambling products
+572,24110010106,"Sale of tickets of/for lotteries and other games of chance to gamblers, for a fee or commission"
+573,241100102,"Leisure, recreational, and athletic instructional programs "
+574,24110010201,"Leisure, recreational, and athletic instructional programs "
+575,241100103,Library and archive services
+576,24110010301,Library and archive services
+577,241100104,"Portrait, wedding, and special event photography services"
+578,24110010401,Portrait photography services
+579,24110010402,Wedding and special event photography services
+580,241100105,Dating services
+581,24110010501,Dating services
+582,241100106,Social event planning and coordination services
+583,24110010601,Social event planning and coordination services
+584,241100107,"Services of self-service machines, nec."
+585,24110010701,"Services of self-service machines, nec."
+586,241100108,Other personal services
+587,24110010801,Other personal services
+588,242,Household pets and related products
+589,24201,Household pets and related products
+590,2420101,Household pets
+591,242010101,Household pets
+592,24201010101,Household pets
+593,2420102,"Food, supplies, and accessories for household pets"
+594,242010201,Food for household pets
+595,24201020101,Specialty pet feed
+596,24201020102,Dog food
+597,24201020103,Cat food
+598,24201020104,Supplies and accessories for household pets
+599,2420103,"Wholesaling services for household pets, pet foods, and pet supplies"
+600,242010301,"Wholesaling services for household pets, pet foods, and pet supplies"
+601,24201030101,"Wholesaling services for household pets, pet foods, and pet supplies"
+602,2420104,"Retailing services for household pets, pet foods, and pet supplies"
+603,242010401,"Retailing services for household pets, pet foods, and pet supplies"
+604,24201040101,"Retailing services for pets, including fish"
+605,24201040102,Retailing services for pet foods and supplies
+606,2420105,Veterinary services and non-medical services for household pets
+607,242010501,Veterinary services and non-medical services for household pets
+608,24201050101,Veterinary services
+609,24201050102,Non-medical services for household pets
+610,27,"Automobiles, light-duty trucks, local passenger transportation services, and related products"
+611,271,"Automobiles, light-duty trucks, and related products "
+612,27101,"Automobiles, light-duty trucks, and related products "
+613,2710101,Automobiles and light-duty trucks 
+614,271010101,Automobiles and light-duty trucks 
+615,27101010101,Automobiles and light-duty trucks 
+616,2710102,Wholesaling services for automobiles and light-duty trucks
+617,271010201,Wholesaling services for automobiles and light-duty trucks
+618,27101020101,Wholesaling services for automobiles and light-duty trucks
+619,2710103,Retailing services for automobiles and light-duty trucks 
+620,271010301,Retailing services for automobiles and light-duty trucks 
+621,27101030101,Retailing services for automobiles and light-duty trucks 
+622,2710104,"Maintenance, repair, and other services for automobiles and light-duty trucks"
+623,271010401,Maintenance and repair and related services for automobiles and light-duty trucks
+624,27101040101,Maintenance and repair services for automobiles and light-duty trucks
+625,27101040102,Washing and cleaning services for automobiles and light-duty trucks
+626,27101040103,Regulatory safety inspections and emissions testing services for automobiles and light-duty trucks
+627,271010402,Other services for automobiles and light-duty trucks
+628,27101040201,Consumer vehicle loans
+629,27101040202,Underwriting services for vehicle property and liability insurance policies
+630,27101040203,Parking services
+631,27101040204,"Security, navigation, armoring, and other vehicle services"
+632,272,Local transportation services
+633,27201,Local transportation services
+634,2720101,Local transportation services
+635,272010101,Local passenger transportation by road and rail
+636,27201010101,"Local, fixed-route passenger transportation by road and transit rail"
+637,27201010102,"Local passenger transportation by road, except fixed-route"
+638,272010102,Local passenger transportation by water
+639,27201010201,Local passenger transportation by water
+640,31,"Leisure and long-distance travel, tourism, and accommodation products"
+641,311,"Motor homes, travel trailers, campers, and related products"
+642,31101,"Motor homes, travel trailers, campers, and related products"
+643,3110101,"Motor homes, travel trailers, and campers"
+644,311010101,"Motor homes, travel trailers, and campers"
+645,31101010101,"Motor homes, travel trailers, and campers"
+646,3110102,"Wholesaling services for motor homes, travel trailers, and campers"
+647,311010201,"Wholesaling services for motor homes, travel trailers, and campers"
+648,31101020101,"Wholesaling services for motor homes, travel trailers, and campers"
+649,3110103,"Retailing services for motor homes, travel trailers, and campers  "
+650,311010301,"Retailing services for motor homes, travel trailers, and campers  "
+651,31101030101,"Retailing services for motor homes, travel trailers, and campers  "
+652,3110104,"Rental and leasing services for motor homes, travel trailers, and campers"
+653,311010401,"Rental and leasing services for motor homes, travel trailers, and campers"
+654,31101040101,"Rental and leasing services for motor homes, travel trailers, and campers"
+655,3110105,"Maintenance and repair and related services for motor homes, travel trailers, and campers"
+656,311010501,"Maintenance and repair and related services for motor homes, travel trailers, and campers"
+657,31101050101,"Maintenance and repair and related services for motor homes, travel trailers, and campers"
+658,312,Rental of automobiles and light-duty trucks
+659,31201,Rental of automobiles and light-duty trucks
+660,3120101,Rental of automobiles and light-duty trucks
+661,312010101,Rental of automobiles and light-duty trucks
+662,31201010101,Rental of automobiles and light-duty trucks
+663,313,Long-distance passenger transport services
+664,31301,Long-distance passenger transportation by road
+665,3130101,Long-distance passenger transportation by road
+666,313010101,Long-distance passenger transportation by road
+667,31301010101,"Long-distance, fixed-route passenger transportation by road"
+668,31301010102,"Long-distance passenger transportation by road, except fixed-route"
+669,31302,Interurban passenger transportation by rail
+670,3130201,Interurban passenger transportation by rail
+671,313020101,Interurban passenger transportation by rail
+672,31302010101,Interurban passenger transportation by rail
+673,31303,Long-distance passenger transportation by air
+674,3130301,Scheduled passenger transportation by air
+675,313030101,"Domestic, scheduled passenger transportation by air"
+676,31303010101,"Domestic, scheduled passenger transportation by air, first class and business class"
+677,31303010102,"Domestic, scheduled passenger transportation by air, coach class"
+678,313030102,"International, scheduled passenger transportation by air"
+679,31303010201,"International, scheduled passenger transportation by air, first class and business class"
+680,31303010202,"International, scheduled passenger transportation by air, coach class"
+681,3130302,Non-scheduled (chartered) passenger transportation by air
+682,313030201,Non-scheduled (chartered) passenger transportation by air
+683,31303020101,"Domestic, non-scheduled passenger transportation by air"
+684,31303020102,"International, non-scheduled passenger transportation by air"
+685,31304,"Coastal and Great Lakes fixed-route, passenger transportation by water"
+686,3130401,"Coastal and Great Lakes fixed-route, passenger transportation by water"
+687,313040101,"Coastal and Great Lakes fixed-route, passenger transportation by water"
+688,31304010101,"Coastal and Great Lakes fixed-route, passenger transportation by water"
+689,314,Scenic and sightseeing travel services
+690,31401,Sightseeing services
+691,3140101,Sightseeing services
+692,314010101,Sightseeing services
+693,31401010101,Sightseeing services by rail
+694,31401010102,"Sightseeing services by ground vehicles, except rail"
+695,31401010103,Sightseeing services by water
+696,31401010104,Sightseeing services by air
+697,31401010105,Tour guide services
+698,31402,Cruises
+699,3140201,Cruises
+700,314020101,Cruises
+701,31402010101,Cruises
+702,31403,"Packaged and customized tours with accommodation, except cruises and academic trips and tours"
+703,3140301,"Packaged and customized tours with accommodation, except cruises and academic trips and tours"
+704,314030101,"Packaged and customized tours with accommodation, except cruises and academic trips and tours"
+705,31403010101,"Packaged and customized tours with accommodation, except cruises and academic trips and tours"
+706,315,"Travel arrangements, reservation, planning, and support services"
+707,31501,Reservation service for passenger transportation
+708,3150101,Reservation service for passenger transportation
+709,315010101,Reservation service for passenger transportation
+710,31501010101,Reservation service for airline seats
+711,31501010102,Reservation service for vehicle rental
+712,31501010103,Reservation service for cruises
+713,31501010104,"Reservation service for passenger transportation, nec."
+714,31502,Lodging reservation service
+715,3150201,Lodging reservation service
+716,315020101,Lodging reservation service
+717,31502010101,Lodging reservation service
+718,31503,Reservation service for packaged tours
+719,3150301,Reservation service for packaged tours
+720,315030101,Reservation service for packaged tours
+721,31503010101,Reservation service for packaged tours
+722,31504,Event ticket sales and reservation services
+723,3150401,Event ticket sales and reservation services
+724,315040101,Event ticket sales and reservation services
+725,31504010101,Event ticket sales and reservation services
+726,31505,Trip planning services
+727,3150501,Trip planning services
+728,315050101,Trip planning services
+729,31505010101,Trip planning services
+730,31506,"Foreign currency exchange services, retail"
+731,3150601,"Foreign currency exchange services, retail"
+732,315060101,"Foreign currency exchange services, retail"
+733,31506010104,"Foreign currency exchange services, retail"
+734,316,Travel insurance services
+735,31601,Travel insurance services
+736,3160101,Travel insurance services
+737,316010101,Travel insurance services
+738,31601010101,Travel insurance services
+739,317,Accommodation for travelers
+740,31701,Accommodation for travelers
+741,3170101,Accommodation for travelers
+742,317010101,Accommodation for travelers
+743,31701010101,Room or unit accommodation for travelers
+744,31701010102,Recreational vehicle and tent sites for travelers
+745,318,Other leisure and travel products
+746,31801,Luggage and related products
+747,3180101,Luggage and related products
+748,318010101,"Luggage, including suitcases, travel bags, backpacks, and other types"
+749,31801010101,"Luggage, including suitcases, travel bags, backpacks, and other types"
+750,318010102,Wholesaling services for luggage
+751,31801010201,Wholesaling services for luggage
+752,318010103,"Retailing services for luggage and leather goods, including briefcases"
+753,31801010301,"Retailing services for luggage and leather goods, including briefcases"
+754,31802,Short-term entertainment access services
+755,3180201,Short-term entertainment access services
+756,318020101,Short-term entertainment access services
+757,31802010101,Short-term entertainment access services
+758,31803,"Other leisure and travel services, nec."
+759,3180301,"Other leisure and travel services, nec."
+760,318030101,"Other leisure and travel services, nec."
+761,31803010101,"Other leisure and travel services, nec."
+762,34,"Educational services, health care and related products for persons, and public, community, and social services, nec., except public administration services"
+763,341,Educational services
+764,34101,Educational services
+765,3410101,"Education, training, and instruction services"
+766,341010101,Basic education and skills programs
+767,34101010101,Basic education and skills programs 
+768,341010102,"Trade, career, technical and professional development training programs "
+769,34101010201,"Trade, career, technical and professional development training programs "
+770,341010103,"Higher career, technical, academic, and advanced research qualification programs "
+771,34101010301,"Higher career, technical, academic, and advanced research qualification programs "
+772,341010104,Exam preparation and tutoring services
+773,34101010401,Exam preparation courses
+774,34101010402,Academic tutoring and customized learning programs
+775,341010105,Student services
+776,34101010501,Student services
+777,3410102,Educational support and consulting services
+778,341010201,Educational support and consulting services
+779,34101020101,Educational support and consulting services
+780,342,Health care and related products for persons
+781,34201,"Drugs and medicines, and related products"
+782,3420101,"Drugs and medicines, and related products"
+783,342010101,"Pharmaceutical preparations, including prescribed and nonprescribed drugs and medicines"
+784,34201010101,"Pharmaceutical preparations, including prescribed and nonprescribed drugs and medicines"
+785,342010102,Wholesaling services for drugs and medicines
+786,34201010201,Wholesaling services for drugs and medicines
+787,342010103,"Retailing services for medicines, vitamins, minerals, and supplements"
+788,34201010301,"Retailing services for medicines, vitamins, minerals, and supplements"
+789,34202,"Health care equipment, appliances, and supplies for persons, and related products"
+790,3420201,"Health care equipment, appliances, and supplies for persons"
+791,342020101,"Health care equipment, appliances, and supplies for persons"
+792,34202010101,"Orthopedic and prosthetic appliances, other types, except intraocular lenses"
+793,34202010102,Prescription eyeware
+794,34202010103,"Other eyewear, except industrial"
+795,34202010104,Hearing aids
+796,34202010105,Other home medical supplies
+797,3420202,"Wholesaling services for health care equipment, appliances, and supplies for persons"
+798,342020201,"Wholesaling services for health care equipment, appliances, and supplies for persons"
+799,34202020101,"Wholesaling services for health care equipment, appliances, and supplies for persons"
+800,3420203,"Retailing services for health care equipment, appliances, and supplies for persons"
+801,342020301,"Retailing services for health care equipment, appliances, and supplies for persons"
+802,34202030101,Retailing services for home health care equipment and supplies
+803,34202030102,Retailing services for glasses and contact lenses
+804,3420204,Rental of home health care equipment
+805,342020401,Rental of home health care equipment
+806,34202040101,Rental of home health care equipment
+807,34203,Health care and related services
+808,3420301,"Physician and hospital services, except dental services"
+809,342030101,"Physician and hospital services, except dental services"
+810,34203010101,"Physician and hospital services, except dental services"
+811,3420302,Dental services
+812,342030201,Dental services
+813,34203020101,Dental services
+814,3420303,Ambulance and related services
+815,342030301,Ambulance services
+816,34203030101,Emergency ambulance services
+817,34203030102,Non-emergency ambulance services
+818,342030302,Standby ambulance and/or first-aid services
+819,34203030201,Standby ambulance and/or first-aid services
+820,3420304,"Home health care and related services, except assisted daily living (ADL) services "
+821,342030401,"Home health care and related services, except assisted daily living (ADL) services "
+822,34203040101,"Home health care and related services, except assisted daily living (ADL) services "
+823,3420305,Assisted daily living (ADL) and related services
+824,342030501,Independent-living services
+825,34203050101,Independent-living services
+826,342030502,"Assisted daily living (ADL) services, except skilled nursing services"
+827,34203050201,"Assisted daily living (ADL) services, without rehabilitation or counseling"
+828,34203050202,"Assisted daily living (ADL) services, with rehabilitation and therapy services"
+829,34203050203,"Assisted daily living (ADL) services, with counseling services"
+830,342030503,Assisted daily living (ADL) and skilled nursing services
+831,34203050301,"Assisted daily living (ADL) and skilled nursing services, without rehabilitation services"
+832,34203050302,"Assisted daily living (ADL) and skilled nursing services, with rehabilitation services"
+833,342030504,Right to occupancy (life lease) services
+834,34203050401,Right to occupancy (life lease) services
+835,3420306,"Other heath care services, except assisted daily living (ADL) services"
+836,342030601,"Blood, organ, and tissue bank services"
+837,34203060101,Human blood services
+838,34203060102,Organ bank services
+839,34203060103,Tissue bank services
+840,34203060104,Human reproductive and stem cell bank services
+841,342030602,Therapeutic massage services
+842,34203060201,Therapeutic massage services
+843,342030603,"Other health care services, nec. "
+844,34203060301,"Other health care services, nec. "
+845,34204,"Health, life, and accident insurance"
+846,3420401,"Health, life, and accident insurance"
+847,342040101,"Health, life, and accident insurance"
+848,34204010101,Underwriting services for life insurance
+849,34204010102,Underwriting services for health and accident insurance 
+850,343,"Public, community, and social services, nec., except public administration services"
+851,34301,"Public, community, and social services, nec., except public administration services"
+852,3430101,"Public, community, and social services, nec., except public administration services"
+853,343010101,Social assistance services
+854,34301010101,"Social assistance services for children, youth, and families"
+855,34301010102,Social assistance services for elderly and disabled adults
+856,34301010103,Social assistance services for immigrants and refugees
+857,34301010104,Social assistance services for the general population
+858,343010102,Civic and social organization membership services
+859,34301010201,Civic and social organization membership services
+860,343010103,Other membership (including religious congregation) services
+861,34301010301,Other membership (including religious congregation) services
+862,37,"Personal care and related products, including funeral products"
+863,371,Personal care products and related products
+864,37101,Personal care supplies
+865,3710101,Personal care supplies
+866,371010101,Toiletries and cosmetics
+867,37101010101,"Bath, facial, and hand soaps, including hand sanitizers"
+868,37101010102,"Perfumes, toilet waters, and colognes"
+869,37101010103,Hair care products 
+870,37101010104,"Oral hygiene pastes, liquids, and similar products"
+871,37101010105,"Cosmetics, creams, lotions, oils, and other toilet preparations "
+872,371010102,Personal care paper products
+873,37101010201,Personal care paper products
+874,371010103,Other non-electric personal care equipment and supplies
+875,37101010301,Other non-electric personal care equipment and supplies
+876,37102,Wholesaling services for personal care supplies
+877,3710201,Wholesaling services for personal care supplies
+878,371020101,Wholesaling services for personal care supplies
+879,37102010101,"Wholesaling services for cosmetics, beauty supplies, perfumes and colognes, including hair preparations and hairbrushes "
+880,37102010102,"Wholesaling services for bath, facial, and hand soaps"
+881,37102010103,"Wholesaling services for personal care paper products, including disposable paper diapers, feminine hygiene products, and similar"
+882,37102010104,"Wholesaling services for other personal care supplies, including toothbrushes (except electric), razor blades, and razors (except electric)"
+883,37103,Retailing services for personal care supplies
+884,3710301,Retailing services for personal care supplies
+885,371030101,Retailing services for personal care supplies
+886,37103010101,Retailing services for personal hygiene supplies
+887,37103010102,Retailing services for cosmetics and fragrances
+888,37104,Personal care services
+889,3710401,Personal care services
+890,371040101,Personal care services
+891,37104010101,Hair care services
+892,37104010102,Nail care services
+893,37104010103,Skin care services
+894,37104010104,Hair removal services
+895,37104010105,Non-therapeutic massage services
+896,37104010106,"Tattoo, tanning and other body modification services"
+897,37104010107,Weight loss services
+898,372,"Funeral products, and related products"
+899,37201,"Funeral products, and related products"
+900,3720101,"Funeral products, and related products"
+901,372010101,Caskets and other funeral goods
+902,37201010101,Caskets and other funeral goods
+903,372010102,Wholesaling services for caskets and other funeral goods
+904,37201010201,Wholesaling services for caskets and other funeral goods
+905,372010103,"Retailing services for caskets, monuments, grave markers, and other funeral goods"
+906,37201010301,"Retailing services for caskets, monuments, grave markers, and other funeral goods"
+907,372010104,Funeral services
+908,37201010401,Pre-burial services for human remains
+909,37201010402,Cremation services for human remains
+910,37201010403,Interment services for human remains
+911,37201010404,Grave plots and other spaces for human remains
+912,37201010405,Cemetery maintenance services
+913,37201010406,Packaged funeral services for human remains
+914,41,"Financial, insurance, and related products, nec."
+915,411,"Financial, insurance, and related products, nec."
+916,41101,"Personal financial, insurance, and related products, nec."
+917,4110101,"Personal financial services, except mortgage and vehicle loans"
+918,411010101,"Deposit account services, except business"
+919,41101010101,"Deposit account service packages, except business"
+920,41101010102,"Separately-priced deposit account services, except business"
+921,411010102,"Consumer loans, except mortgage and vehicle loans"
+922,41101010201,"Consumer loans, except mortgage and vehicle loans"
+923,411010103,Personal financial planning and investment management services
+924,41101010301,Personal financial planning and investment management services
+925,4110102,"Personal insurance services, nec."
+926,411010201,"Personal insurance services, nec."
+927,41101020101,Underwriting services for pensions and annuities
+928,41101020102,"Other personal insurance services, nec."
+929,41102,"Financial and insurance services, nec."
+930,4110201,Business and government loans
+931,411020101,Business and government loans
+932,41102010101,Loans to financial businesses
+933,41102010102,Loans to non-financial businesses
+934,41102010103,Loans to governments
+935,4110202,"Credit financing services, except loans"
+936,411020201,"Credit financing services, except loans"
+937,41102020101,Credit card services
+938,41102020102,Factoring services
+939,41102020103,Automobile and light-duty truck leasing services
+940,41102020104,"Finance leasing services, except automobile and light-duty truck leasing services"
+941,41102020105,Installment credit services
+942,41102020106,Other credit financing services
+943,4110203,Securities origination services
+944,411020301,Securities origination services
+945,41102030101,Securities origination services
+946,4110204,Brokering and dealing services
+947,411020401,Brokering and dealing services
+948,41102040101,Brokering and dealing services for debt instruments
+949,41102040102,Brokering and dealing services for equities
+950,41102040103,Brokering and dealing services for derivatives contracts
+951,41102040104,"Brokering and dealing services for foreign currency, wholesale"
+952,41102040105,Brokering and dealing services for investment company securities
+953,41102040106,Brokering and dealing services for other financial instruments
+954,41102040107,Brokerage correspondent services
+955,4110205,Financing related to securities
+956,411020501,Financing related to securities
+957,41102050101,Financing related to securities
+958,4110206,Trading securities and commodity contracts on own account
+959,411020601,Trading securities and commodity contracts on own account
+960,41102060101,Trading securities and commodity contracts on own account
+961,4110207,Cash handling and management services for business
+962,411020701,Cash handling and management services for business
+963,41102070101,Cash handling and management services for business
+964,4110208,"Document payment services, except traveler's check services"
+965,411020801,"Document payment services, except traveler's check services"
+966,41102080101,"Document payment services, except traveler's check services"
+967,4110209,Trust services
+968,411020901,Trust services
+969,41102090101,Trust services
+970,4110210,Support services for financial and commodity markets
+971,411021001,Support services for financial and commodity markets
+972,41102100101,Support services for financial and commodity markets
+973,4110211,Automated clearing house (ACH) services
+974,411021101,Automated clearing house (ACH) services
+975,41102110101,Automated clearing house (ACH) services
+976,4110212,Other products supporting financial services
+977,411021201,Other products supporting financial services
+978,41102120101,Other products supporting financial services
+979,4110213,"Tax planning and consulting services for corporate and other clients, except individuals and unincorporated businesses"
+980,411021301,"Tax planning and consulting services for corporate and other clients, except individuals and unincorporated businesses"
+981,41102130101,"Tax planning and consulting services for corporate and other clients, except individuals and unincorporated businesses"
+982,4110214,Insurance underwriting services
+983,411021401,Insurance underwriting services
+984,41102140101,Underwriting services for surety bonds and related products
+985,41102140102,Underwriting services for agricultural multiple peril insurance policies
+986,41102140103,Underwriting services for transportation insurance policies 
+987,41102140104,Underwriting services for product liability insurance policies
+988,41102140105,"Underwriting services for general liability insurance policies, nec."
+989,4110215,Reinsurance services
+990,411021501,Reinsurance services
+991,41102150101,Reinsurance services for life and health insurance and annuities 
+992,41102150102,Reinsurance services for surety bond and related insurances
+993,41102150103,Reinsurance services for property and casualty insurance
+994,41102150104,"Reinsurance services, nec."
+995,4110216,Insurance support services
+996,411021601,Insurance support services
+997,41102160101,Insurance brokerage and agency services
+998,41102160102,Claims adjustment services
+999,41102160103,Consulting services for insurance
+1000,41102160104,"Insurance support services, nec."
+1001,4110217,"Services related to financial and insurance services, nec."
+1002,411021701,"Services related to financial and insurance services, nec."
+1003,41102170101,Debt recovery and collection services
+1004,41102170102,Credit rating services
+1005,41102170103,Seizure and execution services
+1006,44,Legal and related products
+1007,441,Legal and related products
+1008,44101,Personal legal and related products
+1009,4410101,Personal legal and related products
+1010,441010101,Personal legal and related products
+1011,44101010101,"Legal services, criminal law"
+1012,44101010102,"Legal services, wills, estates and trusts"
+1013,44101010103,"Legal services, family law"
+1014,44102,"Legal and related services, nec."
+1015,4410201,"Legal services, nec."
+1016,441020101,"Legal services, nec."
+1017,44102010101,"Legal services, real estate law"
+1018,44102010102,"Legal services, business and commercial law"
+1019,44102010103,"Legal services, civil negligence law"
+1020,44102010104,"Legal services, labor and employment law"
+1021,44102010105,"Legal services, other civil law"
+1022,4410202,Legal expert witness services and other legal consulting services
+1023,441020201,Legal expert witness services and other legal consulting services
+1024,44102020101,Legal expert witness services and other legal consulting services
+1025,4410203,"Legal support and related services, except legal consulting services"
+1026,441020301,"Legal support and related services, except legal consulting services"
+1027,44102030101,Legal and patent document filing and search services
+1028,44102030102,Process server services
+1029,44102030103,Personal background checks
+1030,44102030104,Investigation services
+1031,44102030105,"Other legal support services, nec."
+1032,4410204,"Arbitration and mediation services, except environmental"
+1033,441020401,"Arbitration and mediation services, except environmental"
+1034,44102040101,"Arbitration and mediation services, except environmental"
+1035,4410205,Notarization and certification services
+1036,441020501,Notarization and certification services
+1037,44102050101,Notarization and certification services
+1038,47,"Apartment and nonresidential constructions, and related products "
+1039,471,"Apartment and nonresidential constructions, and related products"
+1040,47101,Apartment and nonresidential constructions and construction services 
+1041,4710101,Apartment and nonresidential constructions and construction services 
+1042,471010101,Apartment and nonresidential constructions and construction services 
+1043,47101010101,Apartment and nonresidential building constructions
+1044,47101010102,Apartment and nonresidential building construction services
+1045,47101010103,Non-building constructions and construction services
+1046,47102,Rental and leasing of nonresidential constructions and land
+1047,4710201,Rental and leasing of nonresidential constructions and land
+1048,471020101,Rental and leasing of land for nonresidential use
+1049,47102010101,Rental and leasing of land for nonresidential use
+1050,471020102,Rental and leasing of nonresidential space in buildings or other facilities
+1051,47102010201,Rental and leasing of office and professional space
+1052,47102010202,Rental and leasing of commercial space
+1053,47102010203,Rental and leasing of industrial and manufacturing space
+1054,47102010204,"Rental of space for meetings, conventions, and similar short-term business uses"
+1055,47102010205,Rental of mini-warehouses and self-storage units space
+1056,47102010206,"Rental of space for weddings, banquets, parties and similar short-term social uses"
+1057,47102010207,"Rental of space for sporting, entertainment and other events"
+1058,47102010208,"Rental and leasing of nonresidential space in buildings or other facilities, nec."
+1059,47103,"Services related to nonresidential constructions, except construction services"
+1060,4710301,"Services related to nonresidential constructions, except construction services"
+1061,471030101,Commercial landscaping services
+1062,47103010101,Commercial landscaping services
+1063,471030102,"Architectural services, except residential, landscape, and consulting"
+1064,47103010201,Architectural services for nonresidential building projects
+1065,47103010202,Architectural services for historical restoration projects
+1066,471030103,Landscape architectural services for nonresidential buildings and recreational and open space projects
+1067,47103010301,Landscape architectural services for nonresidential building projects
+1068,47103010302,Landscape architectural services for recreational and open space projects
+1069,471030104,Urban planning services
+1070,47103010401,Urban planning services
+1071,471030105,"Engineering services, except residential and consulting"
+1072,47103010501,"Engineering services for commercial, public and institutional building projects"
+1073,47103010502,Engineering services for petroleum and petrochemical plant and process projects
+1074,47103010503,Engineering services for other industrial and manufacturing plant and process projects
+1075,47103010504,Engineering services for industrial and manufacturing product design projects
+1076,47103010505,Engineering services for transportation projects
+1077,47103010506,Engineering services for municipal utility projects
+1078,47103010507,Engineering services for power projects
+1079,47103010508,Engineering services for telecommunications and broadcasting system projects
+1080,47103010509,Engineering services for hazardous and industrial waste systems projects
+1081,47103010510,"Engineering services for nonresidential projects, nec."
+1082,471030106,Brokerage services for the sale and rental of nonresidential real estate
+1083,47103010601,Brokerage services for the sale and rental of nonresidential real estate
+1084,471030107,Underwriting services for commercial multiple peril insurance policies
+1085,47103010701,Underwriting services for commercial multiple peril insurance policies
+1086,471030108,Commercial building inspection services
+1087,47103010801,Commercial building inspection services
+1088,471030109,"Pest extermination and control services, nonresidential"
+1089,47103010901,"Pest extermination and control services, nonresidential"
+1090,471030110,General-purpose and comprehensive commercial cleaning services
+1091,47103011001,General-purpose and comprehensive commercial cleaning services
+1092,471030111,"On-site cleaning services for carpets, rugs, and upholstery, commercial"
+1093,47103011101,"On-site cleaning services for carpets, rugs, and upholstery, commercial"
+1094,471030112,"Building security system services, nonresidential"
+1095,47103011201,"Building security system monitoring services, nonresidential"
+1096,47103011202,"Building security system and lock installation and repair services, nonresidential"
+1097,47104,"Services related to constructions, nec."
+1098,4710401,"Services related to constructions, nec."
+1099,471040101,Architectural consulting services
+1100,47104010101,Architectural consulting services
+1101,471040102,"Landscape architectural services, nec."
+1102,47104010201,"Landscape architectural services, specific elements"
+1103,47104010202,Landscape architectural consulting services
+1104,471040103,Project site master planning services
+1105,47104010301,Project site master planning services
+1106,471040104,Engineering consulting services
+1107,47104010401,Engineering consulting services
+1108,471040105,Drafting services
+1109,47104010501,Drafting services
+1110,471040106,"Interior design services, except interior decorating services"
+1111,47104010601,"Interior design services, except interior decorating services"
+1112,471040107,"Surveying, mapping, and charting services, except geophysical"
+1113,47104010701,Geospatial photo and image acquisition services
+1114,47104010702,Geospatial photo and image processing services
+1115,47104010703,Geospatial data interpretation services
+1116,47104010704,Integrated surveying and mapping services
+1117,47104010705,"Thematic mapping, orthophoto mapping, and charting services"
+1118,47104010706,Geospatial consulting services
+1119,471040108,Construction project management services
+1120,47104010801,Construction project management services
+1121,471040109,"Services related to real estate, nec."
+1122,47104010901,Brokerage services for the sale and rental of land
+1123,47104010902,Real estate consulting services
+1124,47104010903,Real estate appraisal services
+1125,47104010904,Real estate listing services
+1126,471040110,"Underwriting services for property and casualty insurance policies, except vehicle and multiple peril insurance"
+1127,47104011001,"Underwriting services for property and casualty insurance policies, except vehicle and multiple peril insurance"
+1128,471040111,"Services related to building inspection, nec."
+1129,47104011101,Specific element inspection services
+1130,47104011102,Environmental hazard detection services
+1131,47104011103,Pest inspection services
+1132,47104011104,Other services related to building inspection
+1133,471040112,Property management services
+1134,47104011201,Property management services
+1135,471040113,"Specialized cleaning services, nec."
+1136,47104011301,Cleaning services for window exteriors
+1137,47104011302,Cleaning services for building exteriors
+1138,47104011303,Damage restoration and cleaning services
+1139,47104011304,Hard-surface floor care services
+1140,47104011305,Duct cleaning services
+1141,47104011306,Snow removal services for parking lots and driveways
+1142,47104011307,"Other specialized cleaning services, nec."
+1143,471040114,"Services related to security, nec."
+1144,47104011401,Security guard and patrol services
+1145,47104011402,Security consulting services
+1146,47104011403,"Training services, security"
+1147,47104011404,Architectural armoring services
+1148,51,Equipment and related products
+1149,511,"Office equipment and related products, except computers"
+1150,51101,"Office equipment, except computers"
+1151,5110101,"Office equipment, except computers"
+1152,511010101,"Office equipment, except computers"
+1153,51101010101,Office machinery
+1154,51101010102,Wood office furniture
+1155,51101010103,"Office furniture, except wood"
+1156,51102,"Wholesaling services for office equipment and furniture, except computers"
+1157,5110201,"Wholesaling services for office equipment and furniture, except computers"
+1158,511020101,"Wholesaling services for office equipment and furniture, except computers"
+1159,51102010101,"Wholesaling services for office equipment, except computers"
+1160,51102010102,Wholesaling services for office furniture
+1161,51103,"Retailing services for office equipment and furniture, except computers"
+1162,5110301,"Retailing services for office equipment and furniture, except computers"
+1163,511030101,"Retailing services for office equipment and furniture, except computers"
+1164,51103010101,"Retailing services for office equipment and furniture, except computers"
+1165,51104,"Rental services for office equipment, except computers"
+1166,5110401,"Rental services for office equipment, except computers"
+1167,511040101,"Rental services for office equipment, except computers"
+1168,51104010101,"Rental services for office equipment, except computers"
+1169,51105,"Maintenance and repair services for office equipment, except computers"
+1170,5110501,"Maintenance and repair services for office equipment, except computers"
+1171,511050101,"Maintenance and repair services for office equipment, except computers"
+1172,51105010101,"Maintenance and repair services for office equipment, except computers"
+1173,512,"Computers and peripheral equipment and communications equipment, and related products"
+1174,51201,Computers and peripheral equipment and communications equipment
+1175,5120101,Computers and peripheral equipment and communications equipment
+1176,512010101,Computers and peripheral equipment and communications equipment
+1177,51201010101,Computers and peripheral equipment and communications equipment
+1178,51202,"Wholesaling services for computers and peripheral equipment and communications equipment, except computer components"
+1179,5120201,"Wholesaling services for computers and peripheral equipment and communications equipment, except computer components"
+1180,512020101,"Wholesaling services for computers and peripheral equipment and communications equipment, except computer components"
+1181,51202010101,"Wholesaling services for computers and peripheral equipment and communications equipment, except computer components"
+1182,51203,"Retailing services for computers and peripheral equipment, communications equipment, and related products"
+1183,5120301,"Retailing services for computers and peripheral equipment, communications equipment, and related products"
+1184,512030101,"Retailing services for computers and peripheral equipment, communications equipment, and related products"
+1185,51203010101,"Retailing services for computers and peripheral equipment, communications equipment, and related products"
+1186,51204,Rental services for computers and peripheral equipment and communications equipment
+1187,5120401,Rental services for computers and peripheral equipment and communications equipment
+1188,512040101,Rental services for computers and peripheral equipment and communications equipment
+1189,51204010101,Rental of computers and peripheral equipment
+1190,51204010102,Rental of communications equipment
+1191,51205,Maintenance and repair services for computers and peripheral equipment and communications equipment
+1192,5120501,Maintenance and repair services for computers and peripheral equipment and communications equipment
+1193,512050101,Maintenance and repair services for computers and peripheral equipment and communications equipment
+1194,51205010101,Maintenance and repair services for computer hardware and peripheral equipment
+1195,51205010102,Maintenance and repair services for communications and navigation equipment
+1196,513,Computer software and related products
+1197,51301,Published computer software
+1198,5130101,Published computer software
+1199,513010101,Published computer software
+1200,51301010101,Published system software 
+1201,51301010102,Published applications software 
+1202,51302,Wholesaling services for computer software
+1203,5130201,Wholesaling services for computer software
+1204,513020101,Wholesaling services for computer software
+1205,51302010101,Wholesaling services for computer software
+1206,51303,Retailing services for computer software
+1207,5130301,Retailing services for computer software
+1208,513030101,Retailing services for computer software
+1209,51303010101,Retailing services for computer software
+1210,514,"Agricultural, construction, forestry, mining, and oil and gas field machinery and equipment, and related products"
+1211,51401,"Agricultural, construction, forestry, mining, and oil and gas field machinery and equipment"
+1212,5140101,"Agricultural, construction, forestry, mining, and oil and gas field machinery and equipment"
+1213,514010101,"Agricultural, construction, forestry, mining, and oil and gas field machinery and equipment"
+1214,51401010101,Tractors and other agricultural machinery and equipment 
+1215,51401010102,"Construction, forestry, mining, and oil and gas field machinery and equipment"
+1216,51402,"Wholesaling services for agricultural, construction, forestry, mining, and oil and gas field machinery and equipment"
+1217,5140201,"Wholesaling services for agricultural, construction, forestry, mining, and oil and gas field machinery and equipment"
+1218,514020101,"Wholesaling services for agricultural, construction, forestry, mining, and oil and gas field machinery and equipment"
+1219,51402010101,Wholesaling services for farm machinery and equipment
+1220,51402010102,"Wholesaling services for construction, forestry, mining and oil well and pipeline machinery and equipment"
+1221,51403,"Rental services for agricultural, construction, forestry, mining, and oil and gas field machinery and equipment"
+1222,5140301,"Rental services for agricultural, construction, forestry, mining, and oil and gas field machinery and equipment"
+1223,514030101,"Rental services for agricultural, construction, forestry, mining, and oil and gas field machinery and equipment"
+1224,51403010101,"Rental services for agricultural, construction, forestry, mining, and oil and gas field machinery and equipment"
+1225,51404,"Maintenance and repair services for agricultural, construction, forestry, mining, and oil and gas field machinery and equipment"
+1226,5140401,"Maintenance and repair services for agricultural, construction, forestry, mining, and oil and gas field machinery and equipment"
+1227,514040101,"Maintenance and repair services for agricultural, construction, forestry, mining, and oil and gas field machinery and equipment"
+1228,51404010101,"Maintenance and repair services for agricultural, construction, forestry, mining, and oil and gas field machinery and equipment"
+1229,515,"Industrial, commercial, and service industry machinery and equipment, and related services"
+1230,51501,"Industrial, commercial, and service industry machinery and equipment"
+1231,5150101,Industrial machinery and equipment
+1232,515010101,Specialized industry machinery and equipment
+1233,51501010101,Woodworking machinery
+1234,51501010102,"Plastics- and rubber-working machinery, except patterns and molds"
+1235,51501010103,Paper industry machinery
+1236,51501010104,Printing machinery and equipment
+1237,51501010105,Food product machinery and equipment (industrial and commercial) 
+1238,51501010106,"Packing, packaging, and bottling equipment"
+1239,51501010107,Chemical manufacturing machinery and equipment
+1240,51501010108,"Stone, clay, and glass working machinery"
+1241,51501010109,"Other special industry machinery and equipment, nec. "
+1242,515010102,Metalworking machinery and equipment
+1243,51501010201,Metal cutting machine tools 
+1244,51501010202,Welding and soldering machinery
+1245,51501010203,Other metalworking machinery
+1246,515010103,Power-driven handtools
+1247,51501010301,Power-driven handtools
+1248,515010104,Materials handling equipment
+1249,51501010401,Conveyors and conveying equipment
+1250,51501010402,Other materials handling equipment 
+1251,515010105,"Electricity generation, control, and storage machinery and equipment"
+1252,51501010501,Electricity generation equipment 
+1253,51501010502,Electricity control and distribution equipment
+1254,515010106,"Industrial molds, dies, and patterns"
+1255,51501010601,"Industrial molds, dies, and patterns"
+1256,515010107,Other industrial machinery and equipment
+1257,51501010701,Metal tanks (heavy gauge)
+1258,51501010702,Power boilers and heat exchangers
+1259,51501010703,Pumps and compressors
+1260,51501010704,All other miscellaneous general industrial machinery
+1261,5150102,Commercial and service industry machinery and equipment
+1262,515010201,"Navigational, measuring, and control instruments"
+1263,51501020101,Totalizing fluid meter and counting devices
+1264,51501020102,"Navigational, measuring, and control instruments, nec."
+1265,515010202,Commercial refrigeration equipment
+1266,51501020201,Commercial refrigeration equipment
+1267,515010203,Medical equipment 
+1268,51501020301,Surgical and medical instruments
+1269,51501020302,"Medical furniture, except dental"
+1270,51501020303,Dental equipment
+1271,51501020304,Electromedical and irradiation equipment
+1272,515010204,Automotive maintenance equipment 
+1273,51501020401,Automotive maintenance equipment 
+1274,515010205,Commercial and institutional furniture
+1275,51501020501,Commercial and institutional furniture
+1276,515010206,Electric and nonelectric signs and displays
+1277,51501020601,Electric and nonelectric signs and displays
+1278,515010207,"Commercial and service industry equipment, nec."
+1279,51501020701,"Commercial and service industry equipment, nec."
+1280,51502,"Wholesaling services for industrial, commercial, and service industry machinery and equipment"
+1281,5150201,"Wholesaling services for industrial, commercial, and service industry machinery and equipment"
+1282,515020101,"Wholesaling services for industrial, commercial, and service industry machinery and equipment"
+1283,51502010101,"Wholesaling services for industrial, commercial, and service industry machinery and equipment"
+1284,51503,"Rental services for industrial, commercial, and service industry machinery and equipment"
+1285,5150301,Rental services for industrial machinery and equipment
+1286,515030101,Rental services for industrial machinery and equipment
+1287,51503010101,Rental of materials handling equipment
+1288,51503010102,Rental of other industrial machinery and equipment
+1289,5150302,"Rental services for commercial and service industry machinery and equipment, without operator"
+1290,515030201,"Rental services for commercial and service industry machinery and equipment, without operator"
+1291,51503020101,"Rental services for commercial and service industry machinery and equipment, without operator"
+1292,51504,"Maintenance and repair services for industrial, commercial, and service industry machinery and equipment"
+1293,5150401,"Maintenance and repair services for industrial, commercial, and service industry machinery and equipment"
+1294,515040101,"Maintenance and repair services for industrial, commercial, and service industry machinery and equipment"
+1295,51504010101,Maintenance and repair services for industrial machinery and equipment
+1296,51504010102,Maintenance and repair services for precision electronic medical equipment
+1297,51504010103,Maintenance and repair services for other electronic and precision equipment
+1298,51504010104,Maintenance and repair services for commercial refrigeration equipment
+1299,51504010105,"Maintenance and repair services for other commercial and service industry machinery and equipment, nec."
+1300,516,"Other machinery and equipment, and related products"
+1301,51601,Transportation equipment
+1302,5160101,Transportation equipment
+1303,516010101,Transportation equipment
+1304,51601010101,"Buses, heavy-duty trucks, and heavy-duty trailers, including chassis"
+1305,51601010102,Aircraft
+1306,51601010103,Railroad rolling stock (including rapid transit) and maintenance equipment
+1307,51601010104,Ships
+1308,51601010105,Other transportation vehicles and equipment 
+1309,51602,Wholesaling services for transportation equipment
+1310,5160201,Wholesaling services for transportation equipment
+1311,516020101,Wholesaling services for transportation equipment
+1312,51602010101,"Wholesaling services for buses, medium trucks and heavy duty trucks, tractors, and trailers"
+1313,51602010102,Wholesaling services for other transportation vehicles and equipment
+1314,51603,"Retailing services for other machinery and equipment, and related products"
+1315,5160301,"Retailing services for other machinery and equipment, and related products"
+1316,516030101,"Retailing services for other machinery and equipment, and related products"
+1317,51603010101,"Retailing services for other machinery and equipment, and related products"
+1318,51604,Rental services for transportation equipment
+1319,5160401,"Rental of transportation equipment without operators, except cars, light trucks, and motor homes"
+1320,516040101,"Rental of transportation equipment without operators, except cars, light trucks, and motor homes"
+1321,51604010101,"Rental and leasing of heavy trucks, truck trailers and buses"
+1322,51604010102,"Rental of air, rail, and water transportation equipment"
+1323,5160402,"Rental of transportation equipment with operators, except cars, light trucks, and motor homes"
+1324,516040201,"Rental of transportation equipment with operators, except cars, light trucks, and motor homes"
+1325,51604020101,"Rental of aircraft with crew for air carrier use (""Wet Leasing"")"
+1326,51604020102,"Rental of transportation equipment with operators, except aircraft"
+1327,51605,Maintenance and repair services for transportation equipment
+1328,5160501,Maintenance and repair services for transportation equipment
+1329,516050101,Maintenance and repair services for transportation equipment
+1330,51605010101,Maintenance and repair and related services for heavy trucks and buses
+1331,51605010102,Maintenance and repair and related services for aircraft
+1332,51605010103,Maintenance and repair and related services for railways
+1333,51605010104,Maintenance and repair and related services for railway rolling stock
+1334,51605010105,Maintenance and repair and related services for maritime vessels
+1335,517,"Cleaning services for agricultural, industrial, commercial, and service industry machinery and equipment"
+1336,51701,"Cleaning services for agricultural, industrial, commercial, and service industry machinery and equipment"
+1337,5170101,"Cleaning services for agricultural, industrial, commercial, and service industry machinery and equipment"
+1338,517010101,"Cleaning services for agricultural, industrial, commercial, and service industry machinery and equipment"
+1339,51701010101,"Cleaning services for agricultural, industrial, commercial, and service industry machinery and equipment"
+1340,54,Intellectual property and related products
+1341,541,Outright sale of rights to intellectual property works
+1342,54101,Outright sale of rights to intellectual property works
+1343,5410101,Outright sale of rights to intellectual property works
+1344,541010101,Outright sale of rights to intellectual property works
+1345,54101010101,"Outright sale of rights to intellectual property works protected as industrial property, including patents, trademarks, industrial designs, and trade secrets"
+1346,54101010102,Outright sale of rights to intellectual property works protected by copyright
+1347,542,Licensing of rights to use intellectual property
+1348,54201,Licensing of rights to use intellectual property
+1349,5420101,Licensing of rights to use intellectual property
+1350,542010101,Licensing of rights to use intellectual property protected by copyright
+1351,54201010101,Licensing of rights to use intellectual property protected by copyright
+1352,542010102,"Licensing of rights to use intellectual property protected as industrial property (including patents, trademarks, industrial designs, and trade secrets) and related products"
+1353,54201010201,Licensing of rights to use intellectual property protected by patent
+1354,54201010202,Licensing of rights to use intellectual property protected by trademark
+1355,54201010203,"Licensing of rights to use intellectual property protected as industrial property, nec."
+1356,543,Research and development services
+1357,54301,Research and development services
+1358,5430101,Research and development services
+1359,543010101,Research and development services
+1360,54301010101,Research and development services
+1361,544,Artistic and literary intellectual property protected by copyright produced under contract
+1362,54401,Artistic and literary intellectual property protected by copyright produced under contract
+1363,5440101,Artistic and literary intellectual property protected by copyright produced under contract
+1364,544010101,Artistic and literary intellectual property protected by copyright produced under contract
+1365,54401010101,Artistic and literary intellectual property protected by copyright produced under contract
+1366,545,Products related to intellectual property
+1367,54501,Leasing of rights related to intellectual property
+1368,5450101,Leasing of rights related to intellectual property
+1369,545010101,Leasing of rights related to intellectual property
+1370,54501010101,Leasing of rights to explore for and exploit natural resources
+1371,54501010102,Leasing of other rights related to intellectual property
+1372,54502,Administration of musical and other copyrights for others
+1373,5450201,Administration of musical and other copyrights for others
+1374,545020101,Administration of musical and other copyrights for others
+1375,54502010101,Administration of musical and other copyrights for others
+1376,54503,Services related to intellectual property
+1377,5450301,Services related to intellectual property
+1378,545030101,Franchising agreements
+1379,54503010101,Franchising agreements
+1380,545030102,Contract live sporting events
+1381,54503010201,Contract live sporting events
+1382,57,"Labor supply and related products, except human resources management consulting services"
+1383,571,"Labor supply and related products, except human resources management consulting services"
+1384,57101,"Labor supply and related products, except human resources management consulting services"
+1385,5710101,"Labor supply and related products, except human resources management consulting services"
+1386,571010101,Labor supply services
+1387,57101010101,Permanent (direct employee) placement services
+1388,57101010102,Independent contractor staffing services
+1389,57101010103,Temporary staffing services
+1390,57101010104,Long-term staffing services (payrolling)
+1391,57101010105,Temporary staffing-to-permanent placement services
+1392,57101010106,Onsite management of temporary help services
+1393,57101010107,Co-employment staffing services
+1394,57101010108,Executive/retained search services
+1395,571010102,"Employment related services, except human resources management consulting services"
+1396,57101010201,Online employment services
+1397,57101010202,Employment related training and evaluation services
+1398,57101010203,Outplacement/career counseling
+1399,57101010204,Medical examinations for employment
+1400,571010103,Labor union membership services
+1401,57101010301,Labor union membership services
+1402,61,"Fuels, utilities, waste management, and environmental remediation services, and related products and services"
+1403,611,"Fuels and electricity for heat, power, and transportation, and related products"
+1404,61101,"Fuels for heat, power, and transportation, and related products"
+1405,6110101,"Fuels for heat, power, and transportation"
+1406,611010101,"Fuels for heat, power, and transportation"
+1407,61101010101,Natural gas and residue gas
+1408,61101010102,Coal products
+1409,61101010103,"Refined petroleum fuels, except biofuels"
+1410,61101010104,Fuel ethanol (fuel-grade alcohol) and other biofuels
+1411,61101010105,Other fuels
+1412,6110102,"Wholesaling services for fuels for heat, power, and transportation"
+1413,611010201,"Wholesaling services for fuels for heat, power, and transportation"
+1414,61101020101,"Wholesaling services for fuels for heat, power, and transportation"
+1415,6110103,"Retailing services for fuels for heat, power, and transportation"
+1416,611010301,"Retailing services for fuels for heat, power, and transportation"
+1417,61101030101,"Retailing services for fuels for heat, power, and transportation"
+1418,6110104,"Natural gas and steam services for fuels for heat, power, and transportation"
+1419,611010401,"Natural gas and steam services for fuels for heat, power, and transportation"
+1420,61101040101,Natural gas distribution and support services
+1421,61101040102,Steam distribution services
+1422,61102,Electric utilities and related products
+1423,6110201,Electric utilities and related products
+1424,611020101,Electric utilities and related products
+1425,61102010101,Electric utilities and related products
+1426,612,"Water, sewer, and environmental services"
+1427,61201,Water supply and sewage treatment services
+1428,6120101,Water supply and sewage treatment services
+1429,612010101,Water supply and sewage treatment services
+1430,61201010101,Water supply and sewage treatment services
+1431,61202,"Waste management services, except sewage treatment"
+1432,6120201,Non-hazardous waste management services
+1433,612020101,Collection services for non-hazardous waste and recyclable material
+1434,61202010101,Residential collection services for non-hazardous waste and recyclable material
+1435,61202010102,Nonresidential collection services for non-hazardous waste and recyclable material
+1436,61202010103,Collection services for non-hazardous construction and demolition waste
+1437,61202010104,Destruction services for non-hazardous waste
+1438,61202010105,Other collection services for non-hazardous waste
+1439,612020102,Other non-hazardous waste management services
+1440,61202010201,"Consolidation, storage, and preparation services for non-hazardous waste and recyclable material"
+1441,61202010202,"Non-hazardous waste disposal and other non-hazardous waste facilities operations, maintenance, and closure services"
+1442,61202010203,"Non-hazardous waste management services, nec."
+1443,6120202,Hazardous waste management services
+1444,612020201,Hazardous waste management services
+1445,61202020101,Collection services for hazardous waste
+1446,61202020102,"Consolidation, storage, and preparation services for hazardous waste and recyclable material"
+1447,61202020103,Treatment services for hazardous waste
+1448,61202020104,"Hazardous waste disposal and other hazardous waste facilities operations, maintenance, and closure services"
+1449,61202020105,"Hazardous waste management services, nec."
+1450,61203,Environmental remediation and site management services
+1451,6120301,Environmental remediation and site management services
+1452,612030101,"Site remediation services, except site assessment and remediation planning services"
+1453,61203010101,Site remediation cleanup services
+1454,61203010102,"Control, containment, and monitoring services for site remediation"
+1455,61203010103,"Site remediation services, nec."
+1456,612030102,"Other remediation services, except site assessment and remediation planning services"
+1457,61203010201,Building remediation services
+1458,61203010202,"Environmental emergency response services, except planning services"
+1459,61203010203,Decommissioning services
+1460,61203010204,"Remediation services, nec."
+1461,61204,Environmental consulting services
+1462,6120401,Environmental consulting services
+1463,612040101,Environmental consulting services
+1464,61204010101,Environmental assessment services
+1465,61204010102,Environmental audit services
+1466,61204010103,Site remediation planning services
+1467,61204010104,Evaluation of environmental studies
+1468,61204010105,Natural resource management consulting services
+1469,61204010106,Waste management consulting services
+1470,61204010107,Environmental policy development consulting services
+1471,61204010108,Other environmental consulting services
+1472,61205,"Other environmental services, except engineering"
+1473,6120501,"Other environmental services, except engineering"
+1474,612050101,"Other environmental services, except engineering"
+1475,61205010101,"Other environmental services, except engineering"
+1476,64,Goods transportation services and related products
+1477,641,Goods transportation services and related products
+1478,64101,Transportation services for goods
+1479,6410101,"Moving services, except household moving"
+1480,641010101,"Moving services, except household moving"
+1481,64101010101,"Moving services, except household moving"
+1482,6410102,"Transportation services for small packages, documents, and letters"
+1483,641010201,"Transportation services for small packages, documents, and letters"
+1484,64101020101,"Transportation services for small packages, documents, and letters"
+1485,6410103,Local transportation and delivery of purchased or serviced items
+1486,641010301,Local transportation and delivery of purchased or serviced items
+1487,64101030101,Local transportation and delivery of purchased or serviced items
+1488,6410104,Transportation of bulk liquids and gases
+1489,641010401,Transportation of liquids and gases by pipeline
+1490,64101040101,Transportation of natural gas by pipeline
+1491,64101040102,Transportation of crude oil and other commodities by pipeline
+1492,641010402,Other transportation of bulk liquids and gases
+1493,64101040201,"Transportation of bulk liquids and gases in intermodal tank containers, by road"
+1494,64101040202,"Transportation of bulk liquids and gases, except in intermodal tank containers, by road"
+1495,64101040203,"Transportation of bulk liquids and gases in intermodal tank containers, by rail"
+1496,64101040204,"Transportation of bulk liquids and bulk gases, except in intermodal tank containers, by rail"
+1497,64101040205,"Transportation of bulk liquids and gases in intermodal tank containers, by water"
+1498,64101040206,"Transportation of bulk liquids and gases, except in intermodal tank containers, by water"
+1499,64101040207,Transportation of bulk liquids and gases by air
+1500,6410105,"Transportation of dry bulks, except in intermodal containers"
+1501,641010501,"Transportation of dry bulks, except in intermodal containers"
+1502,64101050101,"Transportation of dry bulks, except in intermodal containers, by road"
+1503,64101050102,"Transportation of dry bulks, except in intermodal containers, by rail"
+1504,64101050103,"Transportation of dry bulks, except in intermodal containers, by water"
+1505,6410106,"Transportation of boxed, palletized, and other packed goods, except in intermodal containers"
+1506,641010601,"Transportation of climate-controlled boxed, palletized, and other packed goods, except in intermodal containers"
+1507,64101060101,"Transportation of climate-controlled boxed, palletized, and other packed goods, except in intermodal containers, by road"
+1508,64101060102,"Transportation of climate-controlled boxed, palletized, and other packed goods, except in intermodal containers, by rail"
+1509,64101060103,"Transportation of climate-controlled boxed, palletized, and other packed goods, except in intermodal containers, by water"
+1510,64101060104,"Transportation of perishable/climate-controlled boxed, palletized, and other packed goods, by air"
+1511,641010602,"Transportation of boxed, palletized, and other packed goods, not climate-controlled, except in intermodal containers"
+1512,64101060201,"Transportation of boxed, palletized, and other packed goods, not climate-controlled and not in intermodal containers, by road"
+1513,64101060202,"Transportation of boxed, palletized, and other packed goods, not climate-controlled and not in intermodal containers, by rail"
+1514,64101060203,"Transportation of boxed, palletized, and other packed goods, not climate-controlled and not in intermodal containers, by water"
+1515,64101060204,"Transportation of non-perishable/not climate-controlled  boxed, palletized, and other packed goods, by air"
+1516,6410107,"Transportation of intermodal containers, nec."
+1517,641010701,"Transportation of climate-controlled intermodal containers, nec."
+1518,64101070101,"Transportation of climate-controlled intermodal containers, nec., by road"
+1519,64101070102,"Transportation of climate-controlled intermodal containers, nec., by rail"
+1520,64101070103,"Transportation of climate-controlled intermodal containers, nec., by water"
+1521,641010702,"Transportation of intermodal containers, not climate-controlled, nec."
+1522,64101070201,"Transportation of intermodal containers, not climate-controlled, nec., by road"
+1523,64101070202,"Transportation of intermodal containers, not climate-controlled, nec., by rail"
+1524,64101070203,"Transportation of intermodal containers, not climate-controlled, nec., by water"
+1525,6410108,Transportation of automobiles and light trucks
+1526,641010801,Transportation of automobiles and light trucks
+1527,64101080101,Transportation of automobiles and light trucks by road
+1528,64101080102,Transportation of automobiles and light trucks by rail
+1529,64101080103,Transportation of automobiles and light trucks by water
+1530,64101080104,Transportation of automobiles and light trucks by air
+1531,6410109,Transportation of livestock
+1532,641010901,Transportation of livestock
+1533,64101090101,Transportation of livestock by road
+1534,64101090102,Transportation of livestock by rail
+1535,64101090103,Transportation of livestock by water
+1536,6410110,Transportation of waste
+1537,641011001,Transportation of waste
+1538,64101100101,Transportation of waste
+1539,6410111,"Transportation of other goods, nec."
+1540,641011101,"Transportation of other goods, nec."
+1541,64101110101,"Transportation of other goods, nec."
+1542,64102,Warehousing and storage services
+1543,6410201,Warehousing and storage services
+1544,641020101,Warehousing and storage services
+1545,64102010101,Warehousing and storage services
+1546,64103,Freight transportation arrangement and customs brokering services
+1547,6410301,Freight transportation arrangement and customs brokering services
+1548,641030101,Freight transportation arrangement and customs brokering services
+1549,64103010101,Freight transportation arrangement and customs brokering services
+1550,64104,Handling and packing and related services for goods
+1551,6410401,Handling and packing and related services for goods
+1552,641040101,Handling and packing and related services for goods
+1553,64104010101,Handling and packing and related services for goods
+1554,67,"Materials and supplies for production and related products, except processed food and beverage inputs for human food manufacturing and food services"
+1555,671,"Materials and supplies for production, except processed food and beverage inputs for human food manufacturing and food services"
+1556,67101,"Materials and supplies for food manufacturing and food services, except processed food and beverage inputs for human food manufacturing and food services"
+1557,6710101,Raw agricultural materials and supplies for food manufacturing and food services 
+1558,671010101,Cereals
+1559,67101010101,Wheat
+1560,67101010102,Maize (corn)
+1561,67101010103,Rice
+1562,67101010104,Sorghum
+1563,67101010105,Barley
+1564,67101010106,Other cereals
+1565,671010102,"Vegetable seeds, except beet seeds"
+1566,67101010201,"Vegetable seeds, except beet seeds"
+1567,671010103,Fruit seeds
+1568,67101010301,Fruit seeds
+1569,671010104,Oilseeds and olives
+1570,67101010401,Soya beans
+1571,67101010402,Groundnuts in shell
+1572,67101010403,Cottonseed
+1573,67101010404,Canola
+1574,67101010405,Other oilseeds
+1575,67101010406,Olives
+1576,671010105,"Stimulant, spice and aromatic crops"
+1577,67101010501,"Coffee, green"
+1578,67101010502,"All other stimulant, spice, and aromatic crops"
+1579,671010106,Pulses (dry leguminous vegetables)
+1580,67101010601,Pulses (dry leguminous vegetables)
+1581,671010107,Sugar crops
+1582,67101010701,Sugar crops
+1583,671010108,Agave
+1584,67101010801,Agave
+1585,671010109,Cattle and other ruminants
+1586,67101010901,Cattle
+1587,67101010902,Other ruminants
+1588,671010110,Swine / pigs
+1589,67101011001,Swine / pigs
+1590,671010111,Poultry and eggs
+1591,67101011101,Poultry and eggs
+1592,671010112,Horses and other equines
+1593,67101011201,Horses and other equines
+1594,671010113,"Other live animals, except household pets"
+1595,67101011301,"Other live animals, except household pets"
+1596,671010114,Raw milk
+1597,67101011401,Raw milk
+1598,671010115,Natural honey
+1599,67101011501,Natural honey
+1600,671010116,"Fish, live, fresh or chilled"
+1601,67101011601,"Fish, live"
+1602,67101011602,"Fish, fresh or chilled"
+1603,671010117,"Crustaceans, not frozen; oysters; other mollusks and aquatic invertebrates, live, fresh or chilled"
+1604,67101011701,"Crustaceans, not frozen; oysters; other mollusks and aquatic invertebrates, live, fresh or chilled"
+1605,6710102,Products for animal and marine feed manufacturing
+1606,671010201,Products for animal and marine feed manufacturing
+1607,67101020101,Products for animal and marine feed manufacturing
+1608,67102,Materials and supplies for tobacco manufacturing
+1609,6710201,Materials and supplies for tobacco manufacturing
+1610,671020101,Materials and supplies for tobacco manufacturing
+1611,67102010101,Materials and supplies for tobacco manufacturing
+1612,67103,Materials and supplies for textile mills
+1613,6710301,Materials and supplies for textile mills
+1614,671030101,Materials and supplies for textile mills
+1615,67103010101,"Cotton, whether or not ginned"
+1616,67103010102,Other fibre crops
+1617,67103010103,Raw animal materials used in textiles
+1618,67103010104,Yarns
+1619,67103010105,Threads
+1620,67103010106,Artificial and synthetic fibers and filaments
+1621,67103010107,"Recovered fibers, processed mill waste, and related products"
+1622,67104,"Materials and supplies for clothing, leather, footwear, and other textiles manufacturing"
+1623,6710401,"Materials and supplies for clothing, leather, footwear, and other textiles manufacturing"
+1624,671040101,"Materials and supplies for clothing, leather, footwear, and other textiles manufacturing"
+1625,67104010101,"Broadwoven fabrics, gray goods and finished"
+1626,67104010102,Narrow fabrics
+1627,67104010103,Knit fabrics
+1628,67104010104,Embroideries
+1629,67104010105,"Buttons, needles, pins, and other apparel fasteners"
+1630,67104010106,"Surfactants, finishing agents, and assistants"
+1631,67104010107,Miscellaneous products for textile manufacturing
+1632,67105,Softwood and hardwood logs
+1633,6710501,Softwood and hardwood logs
+1634,671050101,Softwood and hardwood logs
+1635,67105010101,Softwood logs
+1636,67105010102,Hardwood logs
+1637,67106,Materials and supplies for wood product and furniture manufacturing
+1638,6710601,Materials and supplies for wood product and furniture manufacturing
+1639,671060101,"Lumber and wood, except for construction"
+1640,67106010101,"Lumber and wood, except for construction"
+1641,671060102,Non-wood materials and supplies for furniture manufacturing
+1642,67106010201,Padding and cushioning products
+1643,67106010202,Other materials and supplies for furniture and cabinet manufacturing
+1644,67107,"Paper, paperboard, and materials and supplies for paper manufacturing"
+1645,6710701,"Paper, paperboard, and materials and supplies for paper manufacturing"
+1646,671070101,"Paper, paperboard, and materials and supplies for paper manufacturing"
+1647,67107010101,Pulp 
+1648,67107010102,Paperboard products 
+1649,67107010103,"Paper, except printing paper"
+1650,67108,Materials and supplies for printing processes
+1651,6710801,Materials and supplies for printing processes
+1652,671080101,Materials and supplies for printing processes
+1653,67108010101,Newsprint
+1654,67108010102,Other printing paper
+1655,67108010103,"Printing trades engravers' materials, blank printing plates, and printing ink"
+1656,67109,Materials and supplies for petroleum and coal products manufacturing
+1657,6710901,Materials and supplies for petroleum and coal products manufacturing
+1658,671090101,Materials and supplies for petroleum and coal products manufacturing
+1659,67109010101,"Crude oil, including lease condensate"
+1660,67109010102,Miscellaneous products for petroleum and coal products manufacturing
+1661,67110,Materials and supplies for chemical manufacturing
+1662,6711001,Materials and supplies for chemical manufacturing
+1663,671100101,Materials and supplies for chemical manufacturing
+1664,67110010101,Petrochemicals
+1665,67110010102,"Industrial gases (oxygen, carbon dioxide, nitrogen, argon, hydrogen, fluorocarbon, acetylene, and other industrial gases)"
+1666,67110010103,Dyes and pigments
+1667,67110010104,All other basic inorganic chemicals
+1668,67110010105,Pure and other denatured ethyl alcohol
+1669,67110010106,"Gum and wood chemicals, cyclic intermediates, and all other basic organic chemicals"
+1670,67110010107,"Potash, soda, and borate"
+1671,67110010108,Natural gas liquids
+1672,67110010109,"Synthetic organic medicinal chemicals (all uses), medicinal and botanical drugs, chemicals, and products, in bulk, alkaloid drugs, naturally occurring vitamins, etc."
+1673,67110010110,Miscellaneous products for chemical manufacturing
+1674,67111,Materials and supplies for plastics and rubber products manufacturing
+1675,6711101,Materials and supplies for plastics and rubber products manufacturing
+1676,671110101,Materials and supplies for plastics and rubber products manufacturing
+1677,67111010101,Plastics and resin products
+1678,67111010102,Rubber products
+1679,67111010103,"Carbon black, all processes"
+1680,67111010104,Miscellaneous products for plastics and rubber products manufacturing
+1681,67112,"Materials and supplies for clay, glass, cement, and other nonmetallic minerals products manufacturing"
+1682,6711201,"Materials and supplies for clay, glass, cement, and other nonmetallic minerals products manufacturing"
+1683,671120101,"Sand, clay, and glass products"
+1684,67112010101,Industrial sand
+1685,67112010102,Clays and refractory minerals
+1686,67112010103,"Flat glass (float, sheet, and plate process)"
+1687,671120102,All other nonmetallic minerals 
+1688,67112010201,All other nonmetallic minerals 
+1689,671120103,"Portland cement and other portland hydraulic cements (including oil well, white cement, blended cements, etc.), and masonry cement and cement clinker"
+1690,67112010301,"Portland cement and other portland hydraulic cements (including oil well, white cement, blended cements, etc.), and masonry cement and cement clinker"
+1691,67113,Materials and supplies for primary metals manufacturing
+1692,6711301,Materials and supplies for primary metals manufacturing
+1693,671130101,Metal ores
+1694,67113010101,"Iron ore, including crude, concentrates, agglomerates, and pellets"
+1695,67113010102,Gold ore
+1696,67113010103,Silver ore
+1697,67113010104,Lead ore and zinc ore
+1698,67113010105,Copper ore and nickel ore
+1699,67113010106,"Crude uranium ores and concentrates, including radium and vanadium"
+1700,67113010107,Miscellaneous metal ores and concentrates
+1701,671130102,"Coke oven and blast furnace products, except slag"
+1702,67113010201,"Coke oven and blast furnace products, except slag"
+1703,671130103,Ferroalloys and miscellaneous materials and supplies for primary metals manufacturing 
+1704,67113010301,Ferroalloys and miscellaneous materials and supplies for primary metals manufacturing 
+1705,67114,Materials and supplies for fabricated metal manufacturing
+1706,6711401,Materials and supplies for fabricated metal manufacturing
+1707,671140101,Materials and supplies for fabricated metal manufacturing
+1708,67114010101,"Iron and steel in primary and mill shapes, except pipe and tube"
+1709,67114010102,"Primary, secondary, and alloyed aluminum in primary and mill shapes, except pipe and tube"
+1710,67114010103,"Primary, secondary, and alloyed copper in primary and mill shapes, except pipe and tube"
+1711,67114010104,"Other primary, secondary, and alloyed nonferrous metals in primary and mill shapes, except wire, pipe, and tube"
+1712,67114010105,"Metal pipe and tube, except copper plumbing pipe and cast iron pipe"
+1713,67114010106,Miscellaneous materials and supplies for fabricated metal manufacturing
+1714,67115,"Fabricated metal general-use products for machinery, transportation, and other equipment manufacturing"
+1715,6711501,"Fabricated metal general-use products for machinery, transportation, and other equipment manufacturing"
+1716,671150101,"Fabricated metal general-use products for machinery, transportation, and other equipment manufacturing"
+1717,67115010101,Metal castings
+1718,67115010102,"Metal stampings for machinery, transportation, and other equipment manufacturing"
+1719,67115010103,"Metal forging products, powder metallurgy parts, and fabricated structural iron and steel products"
+1720,67116,Materials and supplies for machinery and transportation equipment manufacturing 
+1721,6711601,Materials and supplies for machinery and transportation equipment manufacturing 
+1722,671160101,Materials and supplies for machinery and transportation equipment manufacturing 
+1723,67116010101,Metal fasteners and similar items for machinery and transportation equipment manufacturing
+1724,67116010102,Fabricated plastics products for transportation equipment
+1725,67116010103,"Engine and propulsion unit products, except for aircraft"
+1726,67116010104,Aircraft engines and parts and accessories
+1727,67116010105,"Ignition, electrical, and electronic products"
+1728,67116010106,Storage batteries
+1729,67116010107,Power train products
+1730,67116010108,Fluid power system products
+1731,67116010109,"Filter products, including fluid power, internal combustion engine, and motor vehicle filters"
+1732,67116010110,"Gasket, packing, and sealing device products; rubber mechanical goods"
+1733,67116010111,"Belt and hose products, except industrial hose without fittings"
+1734,67116010112,Steel spring suspension system products
+1735,67116010113,Wheel products
+1736,67116010114,Motor vehicle body and attachment products
+1737,67116010115,Transportation seating products
+1738,67116010116,Miscellaneous materials and supplies for motor vehicle manufacturing
+1739,67116010117,"Miscellaneous materials and supplies for aerospace manufacturing, except hardware"
+1740,67116010118,Other miscellaneous materials and supplies for machinery and transportation equipment manufacturing
+1741,67117,"Materials and supplies for electronic and electrical equipment, appliances, and component manufacturing"
+1742,6711701,"Materials and supplies for electronic and electrical equipment, appliances, and component manufacturing"
+1743,671170101,"Materials and supplies for electronic and electrical equipment, appliances, and component manufacturing"
+1744,67117010101,Electrical and electronic plastic products
+1745,67117010102,"Mineral wool products for industrial, equipment, and appliance insulation"
+1746,67117010103,"Nonferrous wire, cord, and cable products"
+1747,67117010105,Metal enclosures and wood housing products
+1748,67117010106,Semiconductors and other electronic components
+1749,67117010107,"Relays, industrial controls, and laser system products"
+1750,67117010108,Miscellaneous materials and supplies for electronic and electrical equipment and component manufacturing
+1751,67118,Materials and supplies for miscellaneous manufacturing
+1752,6711801,Materials and supplies for miscellaneous manufacturing
+1753,671180101,Materials and supplies for miscellaneous manufacturing
+1754,67118010101,Materials and supplies for miscellaneous manufacturing
+1755,67119,"Materials and supplies for agriculture, lawn and landscaping services"
+1756,6711901,"Materials and supplies for agriculture, lawn and landscaping services"
+1757,671190101,Livestock feed products
+1758,67119010101,Livestock feed products
+1759,671190102,Forage products
+1760,67119010201,Maize for forage and silage
+1761,67119010202,Hay for forage and silage
+1762,67119010203,Other forage products
+1763,671190103,"Fertilizer, soil improvement, and pesticide products"
+1764,67119010301,"Fertilizer, soil improvement, and pesticide products"
+1765,671190104,"Living plants, cut flowers and flower buds, flower seeds, and cut Christmas trees"
+1766,67119010401,"Living plants, cut flowers and flower buds, flower seeds, and cut Christmas trees"
+1767,671190105,Other animal products
+1768,67119010501,Other animal products
+1769,67120,Materials and supplies for construction and mining
+1770,6712001,Materials and supplies for construction and mining
+1771,671200101,Materials and supplies for building and structures (including mine) construction
+1772,67120010101,"Structural metal, brick, block, and dimension stone, and structural wood used for construction"
+1773,67120010102,"Roofing, siding, and insulation products"
+1774,67120010103,Window and door products
+1775,67120010104,"Interior wall-forming products, including partitions"
+1776,67120010105,"Flooring, floor coverings, wall tiles, and wallpaper "
+1777,67120010106,Wood kitchen and bathroom cabinet and counter products
+1778,67120010107,"Plumbing, heating, and air-conditioning system products and commercial kitchen sheet metal products"
+1779,67120010108,"Electrical, communication, and lighting system products"
+1780,67120010109,"Building machinery system products, except appliances"
+1781,67120010110,"Other building system products, nec."
+1782,67120010111,Prefabricated buildings and components
+1783,67120010112,"Paint, coating, sealant, and other related products"
+1784,671200102,Other miscellaneous materials and supplies for construction and mining
+1785,67120010201,"Nails, staples, tacks, spikes, and brads"
+1786,67120010202,"Construction sand and gravel (run of pit or bank, washed, screened, or otherwise treated)"
+1787,67120010203,"Materials and supplies for masonry construction, nec."
+1788,67120010204,Materials and supplies for paving construction
+1789,67120010205,"Materials and supplies for water, sewer, and irrigation system construction"
+1790,67120010206,All other miscellaneous materials and supplies for construction and mining
+1791,67121,"Miscellaneous materials and supplies, nec."
+1792,6712101,"Miscellaneous materials and supplies, nec."
+1793,671210101,Packaging and packing materials and supplies
+1794,67121010101,Gift wrap products
+1795,67121010102,Flexible packaging roll and sheet products
+1796,67121010103,"Bag, pouch, and liner products"
+1797,67121010104,"Shipping sacks and textile bags, except duffle bags"
+1798,67121010105,"Boxes, crates, tubes, drums, and similar packaging, packing, and shipping products"
+1799,67121010106,Pallets
+1800,67121010107,"Bottles, jars, cans, and closures"
+1801,67121010108,Foam and other protective packaging and packing products
+1802,67121010109,"Rope, cordage and twine products"
+1803,67121010110,Miscellaneous packaging and packing products
+1804,671210102,Office and school supplies and related products
+1805,67121010201,Paper office and school supplies
+1806,67121010202,"Office and school supplies, except paper"
+1807,671210103,Other miscellaneous materials and supplies
+1808,67121010301,"Precision measuring tools (inspection, quality control, tool room, and machinists'), comparators, limit gauges, adjustable size, laser, pneumatic, electronic, and all other precision tools and parts."
+1809,67121010302,"Cutting tools for metalworking machinery, hand and edge tools, saw blades, and handsaws"
+1810,67121010303,"Personal safety equipment and clothing, industrial and nonindustrial"
+1811,67121010304,Adhesives
+1812,67121010305,"Chemical preparations, nec."
+1813,67121010306,"Unlaminated plastics film, sheet, and shapes, except for packaging"
+1814,67121010307,"Miscellaneous rubber and plastics products, nec."
+1815,67121010308,"Miscellaneous metal products, nec."
+1816,67121010309,"Ammunition and related products, nec."
+1817,67121010310,"Leather, hides, and skins, finished and unfinished"
+1818,67121010311,"All other miscellaneous materials and supplies, nec."
+1819,672,Wholesaling services for material inputs and supplies to production
+1820,67201,Wholesaling services for material inputs and supplies to production
+1821,6720101,Wholesaling services for material inputs and supplies to production
+1822,672010101,Wholesaling services for raw farm products used as inputs to food production
+1823,67201010101,"Wholesaling services for raw farm products used in food production, except livestock and poultry"
+1824,67201010102,Wholesaling services for livestock and poultry
+1825,672010102,Wholesaling services for materials and supplies for tobacco manufacturing
+1826,67201010201,Wholesaling services for materials and supplies for tobacco manufacturing
+1827,672010103,Wholesaling services for materials and supplies for textile mills
+1828,67201010301,Wholesaling services for materials and supplies for textile mills
+1829,672010104,"Wholesaling services for materials and supplies for clothing, leather, and footwear manufacturing"
+1830,67201010401,"Wholesaling services for materials and supplies for clothing, leather, and footwear manufacturing"
+1831,672010105,Wholesaling services for materials and supplies for paper manufacturing
+1832,67201010501,Wholesaling services for materials and supplies for paper manufacturing
+1833,672010106,Wholesaling services for materials and supplies for printing processes
+1834,67201010601,Wholesaling services for materials and supplies for printing processes
+1835,672010107,Wholesaling services for crude oil and other petroleum products
+1836,67201010701,Wholesaling services for crude oil and other petroleum products
+1837,672010108,Wholesaling services for materials and supplies for chemical manufacturing
+1838,67201010801,Wholesaling services for materials and supplies for chemical manufacturing
+1839,672010109,Wholesaling services for materials and supplies for plastics and rubber products manufacturing
+1840,67201010901,Wholesaling services for materials and supplies for plastics and rubber products manufacturing
+1841,672010110,"Wholesaling services for materials and supplies for stone, clay, and glass products manufacturing"
+1842,67201011001,"Wholesaling services for materials and supplies for stone, clay, and glass products manufacturing"
+1843,672010111,"Wholesaling services for metals and ores, including scrap metal"
+1844,67201011101,"Wholesaling services for metals and ores, including scrap metal"
+1845,672010112,Wholesaling services for materials and supplies for fabricated metal manufacturing
+1846,67201011201,Wholesaling services for materials and supplies for fabricated metal manufacturing
+1847,672010113,"Wholesaling services for agricultural, construction, forestry, mining and oil well and pipeline machinery and equipment parts and supplies"
+1848,67201011301,"Wholesaling services for agricultural, construction, forestry, mining and oil well and pipeline machinery and equipment parts and supplies"
+1849,672010114,"Wholesaling services for industrial, commercial, and service industry machinery parts and supplies"
+1850,67201011401,"Wholesaling services for industrial, commercial, and service industry machinery parts and supplies"
+1851,672010115,Wholesaling services for materials and supplies for electronic and electrical equipment and component manufacturing
+1852,67201011501,Wholesaling services for materials and supplies for electronic and electrical equipment and component manufacturing
+1853,672010116,Wholesaling services for materials and supplies for agriculture
+1854,67201011601,Wholesaling services for materials and supplies for agriculture
+1855,672010117,Wholesaling services for materials and supplies for construction and mining
+1856,67201011701,Wholesaling services for metal structural products
+1857,67201011702,"Wholesaling services for nonwood roofing, siding, and insulation products "
+1858,67201011703,"Wholesaling services for rough, dressed, and finished dimensional lumber, plywood and panels"
+1859,67201011704,Wholesaling services for millwork
+1860,67201011705,Wholesaling services for flooring and floor coverings
+1861,67201011706,"Wholesaling services for plumbing, heating, and air-conditioning system products, including gas water heaters"
+1862,67201011707,"Wholesaling services for electrical, communication, and lighting system products"
+1863,67201011708,"Wholesaling services for paint, paint supplies, and wallpaper and supplies"
+1864,67201011709,"Wholesaling services for concrete, cement, sand, gravel, stone, brick, block, and tile"
+1865,67201011710,Wholesaling services for other construction materials and supplies
+1866,672010118,Wholesaling services for packing and packaging materials and supplies
+1867,67201011801,Wholesaling services for packing and packaging materials and supplies
+1868,672010119,Wholesaling services for office and school supplies
+1869,67201011901,Wholesaling services for office and school supplies
+1870,672010120,Wholesaling services for miscellaneous materials and supplies
+1871,67201012001,Wholesaling services for miscellaneous materials and supplies
+1872,673,Retailing services for material inputs and supplies to production
+1873,67301,Retailing services for material inputs and supplies to production
+1874,6730101,Retailing services for material inputs and supplies to production
+1875,673010101,"Retailing services for agricultural raw products, including animal byproducts"
+1876,67301010101,"Retailing services for agricultural raw products, including animal byproducts"
+1877,673010102,"Retailing services for fabrics, yarns, and other sewing materials and supplies"
+1878,67301010201,"Retailing services for fabrics, yarns, and other sewing materials and supplies"
+1879,673010103,Retailing services for farm and agricultural supplies
+1880,67301010301,Retailing services for farm and agricultural supplies
+1881,673010104,Retailing services for materials and supplies for construction
+1882,67301010401,"Retailing services for paint, wallpaper, and supplies"
+1883,67301010402,Retailing services for flooring and floor coverings
+1884,67301010403,"Retailing services for plumbing, electrical, and HVAC supplies, hardware, and other building materials and supplies"
+1885,673010105,"Retailing services for office and school supplies, packaging and packing materials and supplies, and miscellaneous materials and supplies"
+1886,67301010501,"Retailing services for office and school supplies, packaging and packing materials and supplies, and miscellaneous materials and supplies"
+1887,71,"Materials and supplies for services, except lawn and landscaping services"
+1888,711,"Materials and supplies for maintenance and repair services, and related products"
+1889,71101,Materials and supplies for maintenance and repair services
+1890,7110101,Materials and supplies for maintenance and repair services
+1891,711010101,Materials and supplies for computers and office machinery
+1892,71101010101,Materials and supplies for computers and office machinery
+1893,711010102,Materials and supplies for maintenance and repair of industrial machinery and transportation equipment
+1894,71101010201,Lubricant and grease products
+1895,71101010202,Tires and tire replacement and repair products
+1896,71101010203,"Automotive chemicals, polish, and cleaners"
+1897,71101010204,Engine components and rebuilt engines
+1898,71101010205,Rebuilt electrical system components
+1899,71101010206,"Motor vehicle steering and suspension components (excluding spring), new and rebuilt"
+1900,71101010207,Motor vehicle brake parts and assemblies
+1901,71101010208,Motor vehicle drive train components
+1902,71101010209,Motor vehicle air-conditioning systems and components
+1903,71101010210,"Radiators, radiator shells and cores, new"
+1904,71101010211,"Exhaust system parts, new, including mufflers, resonators, pipes, and catalytic converters"
+1905,71101010212,"Miscellaneous parts and components for motor vehicle, rail, and other transportation equipment"
+1906,711010103,"Materials and supplies for maintenance and repair of agricultural, construction, mining (including oil and gas field), and related machinery and equipment"
+1907,71101010301,"Materials and supplies for maintenance and repair of agricultural, construction, mining (including oil and gas field), and related machinery and equipment"
+1908,711010104,Materials and supplies for maintenance and repair of industrial machinery and equipment
+1909,71101010401,Materials and supplies for maintenance and repair of metalworking machinery and equipment
+1910,71101010402,Materials and supplies for maintenance and repair of materials handling machinery and equipment
+1911,71101010403,"Materials and supplies for maintenance and repair of electrical generation, control, and storage machinery and equipment"
+1912,71101010404,Materials and supplies for maintenance and repair of other industrial machinery and equipment
+1913,711010105,"Materials and supplies for maintenance and repair of commercial and service industry machinery and equipment, except cooking and food-warming"
+1914,71101010501,"Materials and supplies for maintenance and repair of commercial and service industry machinery and equipment, except cooking and food-warming"
+1915,711010106,Materials and supplies for maintenance and repair of miscellaneous personal and household goods
+1916,71101010601,Materials and supplies for maintenance and repair of miscellaneous personal and household goods
+1917,71102,Wholesaling services for materials and supplies for maintenance and repair services
+1918,7110201,Wholesaling services for materials and supplies for maintenance and repair services
+1919,711020101,Wholesaling services for materials and supplies for maintenance and repair services
+1920,71102010101,Wholesaling services for power transmission and fluid power parts
+1921,71102010102,Wholesaling services for tires and tubes
+1922,71102010103,"Wholesaling services for new and rebuilt automotive parts and supplies, and trailer parts and supplies"
+1923,71102010104,Wholesaling services for used automotive parts and accessories
+1924,71102010105,Wholesaling services for other transportation equipment parts and supplies
+1925,71102010106,Wholesaling services for lubricating oil and greases
+1926,71103,Retailing services for automotive parts and supplies
+1927,7110301,Retailing services for automotive parts and supplies
+1928,711030101,Retailing services for automotive parts and supplies
+1929,71103010101,Retailing services for automotive parts and supplies
+1930,712,"Materials and supplies for services, nec., and related products"
+1931,71201,"Materials and supplies for services, nec."
+1932,7120101,"Materials and supplies for services, nec."
+1933,712010101,"Materials and supplies for medical, dental, and veterinary services"
+1934,71201010101,Biological products
+1935,71201010102,Surgical and medical appliances and supplies
+1936,71201010103,Dental products
+1937,71201010104,"Pharmaceutical preparations for veterinary use (including medicinal premixes and medicated pet care products), except diagnostics and pet flea and tick products"
+1938,712010102,"Materials and supplies for janitorial, laundry, drycleaning, and tailoring services "
+1939,71201010201,"Materials and supplies for janitorial, laundry, drycleaning, and tailoring services "
+1940,712010103,Materials and supplies for photographic services
+1941,71201010301,Materials and supplies for photographic services
+1942,712010104,"Miscellaneous materials and supplies for services, nec."
+1943,71201010401,"Miscellaneous materials and supplies for services, nec."
+1944,71202,"Wholesaling services for  materials and supplies for service industries, nec."
+1945,7120201,"Wholesaling services for  materials and supplies for service industries, nec."
+1946,712020101,"Wholesaling services for  materials and supplies for service industries, nec."
+1947,71202010101,"Wholesaling services for medical and dental instruments and supplies, including prescription veterinary medicines"
+1948,71202010102,Wholesaling services for photographic supplies
+1949,71202010103,"Wholesaling services for household, industrial and janitorial cleaning chemicals and supplies"
+1950,71202010104,"Wholesaling services for disposable paper and plastic products and other materials and supplies for service industries, nec."
+1951,74,Scientific and technical services
+1952,741,Scientific and technical services
+1953,74101,Scientific and technical services
+1954,7410101,Scientific and technical services
+1955,741010101,Information technology (IT) design and development services
+1956,74101010101,Information technology (IT) design and development services
+1957,741010102,"Specialized design services, except interior design"
+1958,74101010201,Industrial design services
+1959,74101010202,"Graphic design services, except advertising graphic design "
+1960,74101010203,"Clothing and other specialized design services, nec."
+1961,741010103,"Testing services, except automotive regulatory safety and emissions inspection services"
+1962,74101010301,Testing services
+1963,74101010302,Calibration services for instruments and reference materials
+1964,74101010303,Product certification services
+1965,74101010304,Management system registration services
+1966,74101010305,Commercial inspection services
+1967,74101010306,"Consulting services, testing and related fields"
+1968,741010104,Geophysical surveying and mapping services
+1969,74101010401,Geophysical data acquisition services
+1970,74101010402,Geophysical data processing services
+1971,74101010403,Geophysical data interpretation services
+1972,74101010404,"Integrated geophysical services, except oil and gas well logging"
+1973,741010105,Drilling and other support activities for mining
+1974,74101010501,Drilling and other support activities for oil and gas mining
+1975,74101010502,Drilling and other support activities for coal mining and metallic and nonmetallic minerals mining
+1976,741010106,Weather forecasting services
+1977,74101010601,Weather forecasting services
+1978,741010107,Economic consulting services
+1979,74101010701,Economic consulting services
+1980,741010108,"Scientific and technical consulting services, nec."
+1981,74101010801,"Scientific and technical consulting services, nec."
+1982,77,"Advertising, public relations, and communications and information services"
+1983,771,"Advertising, public relations, and communications and information services"
+1984,77101,"Advertising, marketing research, and related services"
+1985,7710101,"Advertising space, time, and similar services"
+1986,771010101,"Advertising space, time, and similar services"
+1987,77101010101,Advertising space in printed publications 
+1988,77101010102,Television air time for advertising
+1989,77101010103,Radio air time for advertising
+1990,77101010104,Internet advertising
+1991,77101010105,Leased display advertising media space
+1992,77101010106,"Other advertising space, time, and similar services"
+1993,7710102,"Advertising planning, production, and implementation services"
+1994,771010201,Comprehensive advertising services
+1995,77101020101,Multiple advertising services
+1996,77101020102,"Direct marketing services, full-service"
+1997,77101020103,"Direct mail advertising, full-service"
+1998,77101020104,"Advertising creative services, including advertising graphic design services"
+1999,771010202,Advertising intermediary services
+2000,77101020201,Media planning and/or buying services
+2001,77101020202,Sales agent services for advertising space and time
+2002,771010203,Individual direct mail advertising services
+2003,77101020301,Concept development services for direct mail advertising campaigns
+2004,77101020302,Letter shop services
+2005,77101020303,Mailing lists
+2006,77101020304,Other direct mail advertising services
+2007,771010204,Other advertising services
+2008,77101020401,"Distribution services for advertising materials, other than by mail"
+2009,77101020402,Coordination of production and delivery of premiums (advertising specialties)
+2010,77101020403,Product or merchandise demonstrations
+2011,77101020404,"Other advertising services, nec."
+2012,771010205,Telemarketing and call support services
+2013,77101020501,Telemarketing and call support services
+2014,7710103,Marketing research and public opinion polling services
+2015,771010301,Marketing research and public opinion polling services
+2016,77101030101,Marketing research services
+2017,77101030102,Public opinion research and polling services
+2018,77101030103,Statistical sampling and survey design services
+2019,77102,Public relations and related services
+2020,7710201,Public relations and related services
+2021,771020101,Public relations and related services
+2022,77102010101,Full public relations services
+2023,77102010102,Media relations services
+2024,77102010103,Crisis management services
+2025,77102010104,Lobbying services
+2026,77102010105,Event management services
+2027,77102010106,Media monitoring and analysis services
+2028,77102010107,Fundraising organization services
+2029,77103,"Publishing related services, except publications"
+2030,7710301,"Publishing related services, except publications"
+2031,771030101,"Publishing related services, except publications"
+2032,77103010101,Contract publishing services
+2033,77103010102,"Consulting services, book publishing"
+2034,77104,Broadcasting services
+2035,7710401,Broadcasting services
+2036,771040101,Broadcasting services
+2037,77104010101,Television air time for programs
+2038,77104010102,Radio air time for programs
+2039,77105,Motion picture and video services
+2040,7710501,Motion picture and video services
+2041,771050101,Motion picture and video services
+2042,77105010101,Preproduction services for audiovisual works
+2043,77105010102,Postproduction services for audiovisual works
+2044,77105010103,Motion picture film laboratory services
+2045,77105010104,Support services for production of audiovisual works
+2046,77105010105,"Duplication and copying (except large-run) services for audiovisual works, digital and video"
+2047,77106,Record and sound recording services
+2048,7710601,Record and sound recording services
+2049,771060101,Record and sound recording services
+2050,77106010101,Studio recording services
+2051,77106010102,Live recording services
+2052,77106010103,Support services for sound recording by others
+2053,77106010104,Audio transfer services
+2054,77107,Communications and information and related services
+2055,7710701,Communications and information and related services
+2056,771070101,"Carrier services, Internet backbone services, Internet access, and telephone and related services"
+2057,77107010101,Carrier services and Internet backbone services
+2058,77107010102,"Internet access, always-on, business"
+2059,77107010103,Telephone and related services
+2060,771070102,Information technology (IT) technical consulting services
+2061,77107010201,Information technology (IT) technical consulting services
+2062,771070103,"Hosting, data processing, and information technology (IT) infrastructure provisioning services"
+2063,77107010301,Web site hosting services
+2064,77107010302,Application service provisioning
+2065,77107010303,Business process management services
+2066,77107010304,Collocation services
+2067,77107010305,Data storage services
+2068,77107010306,Data management services
+2069,77107010307,Video and audio streaming services
+2070,77107010308,Other data processing or IT infrastructure provisioning services
+2071,771070104,IT infrastructure and network management services
+2072,77107010401,IT infrastructure and network management services
+2073,771070105,IT technical support services
+2074,77107010501,IT technical support services
+2075,771070106,Information and document transformation services
+2076,77107010601,Information and document transformation services
+2077,771070107,Directory and database services
+2078,77107010701,Directories
+2079,77107010702,Databases and other collections of information
+2080,771070108,Other information services
+2081,77107010801,Other information services
+2082,77108,Translation and interpretation and related services
+2083,7710801,Translation and interpretation and related services
+2084,771080101,Translation and interpretation and related services
+2085,77108010101,Translation and interpretation and related services
+2086,77109,Photographic services
+2087,7710901,Photographic services
+2088,771090101,Photographic services
+2089,77109010101,Convention and meeting photography services
+2090,77109010102,Commercial and industrial photography services
+2091,77109010103,Photofinishing services
+2092,81,"Accounting, management, administrative, and miscellaneous services"
+2093,811,"Accounting, management, administrative, and miscellaneous services"
+2094,81101,"Management consulting services, except IT consulting"
+2095,8110101,"Management consulting services, except IT consulting"
+2096,811010101,"Management consulting services, except IT consulting"
+2097,81101010101,Strategic management consulting and implementation services
+2098,81101010102,Financial management consulting and implementation services for businesses and government
+2099,81101010103,Marketing management consulting and implementation services
+2100,81101010104,Human resources management consulting and implementation services
+2101,81101010105,Operations and supply chain management consulting and implementation services
+2102,81102,"Contract management and operation services, except property and construction project management"
+2103,8110201,Managed services
+2104,811020101,Facility support services
+2105,81102010101,Facility support services
+2106,811020102,Document preparation services and related products
+2107,81102010201,Document preparation services
+2108,81102010202,"Copying, reproduction, and fax transmission services"
+2109,81102010203,Document finishing services
+2110,81102010204,Mailroom services and related products
+2111,8110202,Bundled head-office services to the enterprise
+2112,811020201,Bundled head-office services to the enterprise
+2113,81102020101,Bundled head-office services to the enterprise
+2114,8110203,"Project management services, except construction"
+2115,811020301,"Project management services, except construction"
+2116,81102030101,"Project management services, except construction"
+2117,8110204,"Career management and representation services for artists, athletes, entertainers, and other public figures"
+2118,811020401,"Career management and representation services for artists, athletes, entertainers, and other public figures"
+2119,81102040101,Career management services
+2120,81102040102,Representation services
+2121,8110205,"Management, operation, and support services for transportation systems"
+2122,811020501,"Management, operation, and support services for transportation systems"
+2123,81102050101,Management and operation services for transportation systems
+2124,811020502,Air transportation support services
+2125,81102050201,Air traffic control services
+2126,81102050202,Fixed-base-operator (FBO) services
+2127,81102050203,Airport operation and administration services
+2128,81102050204,"Other air transportation support services, nec."
+2129,811020503,Rail transportation support services
+2130,81102050301,Rail transportation support services
+2131,811020504,Water transportation support services
+2132,81102050401,Marine facility services
+2133,81102050402,Navigational services for marine vessels
+2134,81102050403,Marine salvage services
+2135,81102050404,"Water transportation support services, nec."
+2136,811020505,Road transportation support services
+2137,81102050501,Road transportation support services
+2138,81103,"Accounting and related services (except IT support services) for trade, professional, and business"
+2139,8110301,Financial assurance and related services
+2140,811030101,Financial assurance and related services
+2141,81103010101,Financial auditing services
+2142,81103010102,Tax auditing services
+2143,81103010103,Financial statement review engagements and agreed-upon procedures for financial information
+2144,81103010104,"Financial assurance and related services, nec."
+2145,8110302,Non-financial assurance and related services
+2146,811030201,Non-financial assurance and related services
+2147,81103020101,Non-financial assurance and related services
+2148,8110303,"General accounting, bookkeeping, compilation, payroll, and tax preparation and representation services"
+2149,811030301,"General accounting, bookkeeping, compilation, payroll, and tax preparation and representation services"
+2150,81103030101,General accounting services
+2151,81103030102,Bookkeeping and compilation services
+2152,81103030103,Payroll services
+2153,81103030104,Tax preparation and representation services
+2154,81104,"Miscellaneous services, nec."
+2155,8110401,"Miscellaneous services, nec."
+2156,811040101,"Miscellaneous services, nec."
+2157,81104010101,Armored car services
+2158,81104010102,"Aerial support services, nec."
+2159,81104010103,"Agriculture support services, nec."
+2160,81104010104,"Forestry support services, nec."
+2161,81104010105,"Conservation services for artistic, historical, and cultural works"
+2162,81104010106,Bodyguard services
+2163,81104010107,Business and professional association membership services
+2164,81104010108,"Appraisal services, nec."
+2165,81104010109,Race animal training services and animal (except  pet) boarding services
+2166,81104010110,Commercial laundry services
+2167,81104010111,Laundry and drycleaning agency services
+2168,81104010112,Uniform rental and linen supply services
+2169,81104010113,"Other miscellaneous services, nec. "
+2170,84,Contract manufacturing and related services 
+2171,841,Contract manufacturing and related services 
+2172,84101,Contract manufacturing and related services 
+2173,8410101,Contract manufacturing and related services 
+2174,841010101,Contract manufacturing and related services 
+2175,84101010101,Food and beverage manufacturing services
+2176,84101010102,Tobacco manufacturing services
+2177,84101010103,Textile manufacturing services
+2178,84101010104,Apparel manufacturing services
+2179,84101010105,Wood product manufacturing services
+2180,84101010106,Paper manufacturing services
+2181,84101010107,Printing and related manufacturing services
+2182,84101010108,Petroleum and coal product manufacturing services
+2183,84101010109,Chemical manufacturing services
+2184,84101010110,Plastics and rubber products manufacturing services
+2185,84101010111,"Clay, glass, cement, and other nonmetallic minerals products manufacturing services"
+2186,84101010112,Metal processing and metalworking manufacturing services
+2187,84101010113,Machinery manufacturing services
+2188,84101010114,Electronic and electrical manufacturing services
+2189,84101010115,Transportation equipment manufacturing services
+2190,84101010116,Furniture and related product manufacturing services
+2191,84101010117,"Contract manufacturing services, nec."
+2192,87,Public administration services
+2193,871,Public administration services
+2194,87101,Public administration services
+2195,8710101,Public administration services
+2196,871010101,Public administration services
+2197,87101010101,Public administration services
